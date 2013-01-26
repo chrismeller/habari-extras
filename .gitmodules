@@ -901,3 +901,6 @@
 [submodule "plugin/relativelypopular"]
 	path = plugin/relativelypopular
 	url = https://github.com/habari-extras/relativelypopular.git
+[submodule "plugin/no_websites"]
+	path = plugin/no_websites
+	url = https://github.com/habari-extras/no_websites.git
