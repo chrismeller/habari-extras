@@ -1,0 +1,1 @@
+Adds a link to syndication content to address syndication hijacking.

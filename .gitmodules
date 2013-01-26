@@ -919,3 +919,6 @@
 [submodule "plugin/membership"]
 	path = plugin/membership
 	url = https://github.com/habari-extras/membership.git
+[submodule "plugin/syndicationlink"]
+	path = plugin/syndicationlink
+	url = https://github.com/habari-extras/syndicationlink.git
