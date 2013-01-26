@@ -757,3 +757,6 @@
 [submodule "plugin/account_manager"]
 	path = plugin/account_manager
 	url = https://github.com/habari-extras/account_manager.git
+[submodule "plugin/admindetour"]
+	path = plugin/admindetour
+	url = https://github.com/habari-extras/admindetour.git
