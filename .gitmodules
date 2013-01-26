@@ -835,3 +835,6 @@
 [submodule "theme/georgia"]
 	path = theme/georgia
 	url = https://github.com/habari-extras/georgia.git
+[submodule "theme/gray"]
+	path = theme/gray
+	url = https://github.com/habari-extras/gray.git

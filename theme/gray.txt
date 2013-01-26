@@ -1,0 +1,1 @@
+A multi-column theme for Habari, built in YUI grids, with layout adjustable from the admin.  Makes extensive use of blocks, including for the main content.
