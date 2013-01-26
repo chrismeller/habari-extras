@@ -517,3 +517,6 @@
 [submodule "plugin/route301"]
 	path = plugin/route301
 	url = https://github.com/habari-extras/route301.git
+[submodule "plugin/rss"]
+	path = plugin/rss
+	url = https://github.com/habari-extras/rss.git
