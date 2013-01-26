@@ -232,3 +232,6 @@
 [submodule "plugin/incoming_links"]
 	path = plugin/incoming_links
 	url = https://github.com/habari-extras/incoming_links.git
+[submodule "plugin/inline_edit"]
+	path = plugin/inline_edit
+	url = https://github.com/habari-extras/inline_edit.git

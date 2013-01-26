@@ -1,0 +1,1 @@
+Adds inline editing to comments.
