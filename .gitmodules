@@ -874,3 +874,6 @@
 [submodule "theme/rino"]
 	path = theme/rino
 	url = https://github.com/habari-extras/rino.git
+[submodule "theme/simpler"]
+	path = theme/simpler
+	url = https://github.com/habari-extras/simpler.git
