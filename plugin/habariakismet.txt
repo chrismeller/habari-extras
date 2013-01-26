@@ -1,0 +1,1 @@
+Provides the Akismet and TypePad AntiSpam spam filter webservices to Habari comments.

@@ -190,3 +190,6 @@
 [submodule "plugin/habari_import"]
 	path = plugin/habari_import
 	url = https://github.com/habari-extras/habari_import.git
+[submodule "plugin/habariakismet"]
+	path = plugin/habariakismet
+	url = https://github.com/habari-extras/habariakismet.git
