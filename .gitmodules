@@ -538,3 +538,6 @@
 [submodule "plugin/sharedraft"]
 	path = plugin/sharedraft
 	url = https://github.com/habari-extras/sharedraft.git
+[submodule "plugin/shelves"]
+	path = plugin/shelves
+	url = https://github.com/habari-extras/shelves.git
