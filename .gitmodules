@@ -289,3 +289,6 @@
 [submodule "plugin/livehelp"]
 	path = plugin/livehelp
 	url = https://github.com/habari-extras/livehelp.git
+[submodule "plugin/lockdown"]
+	path = plugin/lockdown
+	url = https://github.com/habari-extras/lockdown.git

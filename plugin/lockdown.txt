@@ -1,0 +1,1 @@
+Prevents users from making changes that would disable a demo install.
