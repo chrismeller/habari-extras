@@ -1,0 +1,1 @@
+Makes a site delivery lithe by reducing the number of files served and distributing them over a CDN

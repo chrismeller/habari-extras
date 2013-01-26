@@ -250,3 +250,6 @@
 [submodule "plugin/jambo"]
 	path = plugin/jambo
 	url = https://github.com/habari-extras/jambo.git
+[submodule "plugin/jsmincdn"]
+	path = plugin/jsmincdn
+	url = https://github.com/habari-extras/jsmincdn.git
