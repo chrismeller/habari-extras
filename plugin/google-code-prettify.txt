@@ -1,0 +1,1 @@
+Allows syntax highlighting of source code snippets.

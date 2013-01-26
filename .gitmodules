@@ -172,3 +172,6 @@
 [submodule "plugin/google-ajax"]
 	path = plugin/google-ajax
 	url = https://github.com/habari-extras/google-ajax.git
+[submodule "plugin/google-code-prettify"]
+	path = plugin/google-code-prettify
+	url = https://github.com/habari-extras/google-code-prettify.git
