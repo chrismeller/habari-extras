@@ -181,3 +181,6 @@
 [submodule "plugin/googleanalytics"]
 	path = plugin/googleanalytics
 	url = https://github.com/habari-extras/googleanalytics.git
+[submodule "plugin/googlemaps"]
+	path = plugin/googlemaps
+	url = https://github.com/habari-extras/googlemaps.git
