@@ -595,3 +595,6 @@
 [submodule "plugin/sqlite_snapshot"]
 	path = plugin/sqlite_snapshot
 	url = https://github.com/habari-extras/sqlite_snapshot.git
+[submodule "plugin/staticcache"]
+	path = plugin/staticcache
+	url = https://github.com/habari-extras/staticcache.git
