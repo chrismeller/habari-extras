@@ -1,0 +1,3 @@
+Very simple, clean theme based on K2 which comes with Habari and WP-Mallow2 - my WordPress theme which itself is based on Wp-Mallow and Kubrick.
+	<br/><br/><br/>
+	

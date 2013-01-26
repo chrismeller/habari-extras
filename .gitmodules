@@ -844,3 +844,6 @@
 [submodule "theme/hemingway"]
 	path = theme/hemingway
 	url = https://github.com/habari-extras/hemingway.git
+[submodule "theme/hmallow2"]
+	path = theme/hmallow2
+	url = https://github.com/habari-extras/hmallow2.git
