@@ -145,3 +145,6 @@
 [submodule "plugin/freeplace"]
 	path = plugin/freeplace
 	url = https://github.com/habari-extras/freeplace.git
+[submodule "plugin/freshcomments"]
+	path = plugin/freshcomments
+	url = https://github.com/habari-extras/freshcomments.git
