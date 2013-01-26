@@ -412,3 +412,6 @@
 [submodule "plugin/pingerupdate"]
 	path = plugin/pingerupdate
 	url = https://github.com/habari-extras/pingerupdate.git
+[submodule "plugin/piwik"]
+	path = plugin/piwik
+	url = https://github.com/habari-extras/piwik.git
