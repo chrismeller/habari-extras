@@ -628,3 +628,6 @@
 [submodule "plugin/tagrewriter"]
 	path = plugin/tagrewriter
 	url = https://github.com/habari-extras/tagrewriter.git
+[submodule "plugin/tagtray"]
+	path = plugin/tagtray
+	url = https://github.com/habari-extras/tagtray.git

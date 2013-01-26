@@ -1,0 +1,1 @@
+Displays a tray of tags on the publish page to click on and add to the edited post.
