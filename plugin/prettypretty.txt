@@ -1,0 +1,1 @@
+Adds color to the admin area.
