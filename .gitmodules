@@ -655,3 +655,6 @@
 [submodule "plugin/throttle"]
 	path = plugin/throttle
 	url = https://github.com/habari-extras/throttle.git
+[submodule "plugin/tracdashmodule"]
+	path = plugin/tracdashmodule
+	url = https://github.com/habari-extras/tracdashmodule.git
