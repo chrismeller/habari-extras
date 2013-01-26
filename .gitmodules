@@ -733,3 +733,6 @@
 [submodule "plugin/autopinger"]
 	path = plugin/autopinger
 	url = https://github.com/habari-extras/autopinger.git
+[submodule "plugin/beacontest"]
+	path = plugin/beacontest
+	url = https://github.com/habari-extras/beacontest.git

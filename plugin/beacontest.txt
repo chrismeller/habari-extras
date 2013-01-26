@@ -1,0 +1,1 @@
+Provides an easy way to test the update beacon. There are always updates available!
