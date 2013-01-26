@@ -679,3 +679,6 @@
 [submodule "plugin/twitterlitte"]
 	path = plugin/twitterlitte
 	url = https://github.com/habari-extras/twitterlitte.git
+[submodule "plugin/twittersilo"]
+	path = plugin/twittersilo
+	url = https://github.com/habari-extras/twittersilo.git
