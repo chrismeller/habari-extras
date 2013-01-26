@@ -814,3 +814,6 @@
 [submodule "theme/aligned"]
 	path = theme/aligned
 	url = https://github.com/habari-extras/aligned.git
+[submodule "theme/arctic_ice"]
+	path = theme/arctic_ice
+	url = https://github.com/habari-extras/arctic_ice.git

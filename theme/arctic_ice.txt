@@ -1,0 +1,1 @@
+A cool blue two column theme based on Habari's Mzingi. Arctic Ice uses Habari's HiEngine templating engine. Arctic Ice contains three areas in which blocks can be put: above the post content, below the post content, and in the sidebar.
