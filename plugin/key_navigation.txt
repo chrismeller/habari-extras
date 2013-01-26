@@ -1,0 +1,1 @@
+Allows users to navigate between posts with the keyboard.

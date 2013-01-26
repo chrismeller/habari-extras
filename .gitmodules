@@ -259,3 +259,6 @@
 [submodule "plugin/keep_login"]
 	path = plugin/keep_login
 	url = https://github.com/habari-extras/keep_login.git
+[submodule "plugin/key_navigation"]
+	path = plugin/key_navigation
+	url = https://github.com/habari-extras/key_navigation.git
