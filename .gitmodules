@@ -511,3 +511,6 @@
 [submodule "plugin/revision"]
 	path = plugin/revision
 	url = https://github.com/habari-extras/revision.git
+[submodule "plugin/rewriter"]
+	path = plugin/rewriter
+	url = https://github.com/habari-extras/rewriter.git
