@@ -253,3 +253,6 @@
 [submodule "plugin/jsmincdn"]
 	path = plugin/jsmincdn
 	url = https://github.com/habari-extras/jsmincdn.git
+[submodule "plugin/jwysiwyg"]
+	path = plugin/jwysiwyg
+	url = https://github.com/habari-extras/jwysiwyg.git
