@@ -1,0 +1,1 @@
+Embeds <a href="https://code.google.com/p/html5shiv/" title="html5shiv googlecode">HTML5shiv</a> javascript code for IE to recognise and style the HTML5 elements. 
