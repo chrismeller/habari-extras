@@ -262,3 +262,6 @@
 [submodule "plugin/key_navigation"]
 	path = plugin/key_navigation
 	url = https://github.com/habari-extras/key_navigation.git
+[submodule "plugin/keywords"]
+	path = plugin/keywords
+	url = https://github.com/habari-extras/keywords.git
