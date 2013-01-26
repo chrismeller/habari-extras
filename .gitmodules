@@ -904,3 +904,6 @@
 [submodule "plugin/no_websites"]
 	path = plugin/no_websites
 	url = https://github.com/habari-extras/no_websites.git
+[submodule "plugin/spreking"]
+	path = plugin/spreking
+	url = https://github.com/habari-extras/spreking.git

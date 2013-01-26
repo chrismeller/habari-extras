@@ -1,0 +1,1 @@
+Allows the use of Habari as a forum.
