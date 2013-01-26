@@ -562,3 +562,6 @@
 [submodule "plugin/simplynoted"]
 	path = plugin/simplynoted
 	url = https://github.com/habari-extras/simplynoted.git
+[submodule "plugin/sitemaintenance"]
+	path = plugin/sitemaintenance
+	url = https://github.com/habari-extras/sitemaintenance.git
