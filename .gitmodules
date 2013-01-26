@@ -922,3 +922,6 @@
 [submodule "plugin/syndicationlink"]
 	path = plugin/syndicationlink
 	url = https://github.com/habari-extras/syndicationlink.git
+[submodule "plugin/holmes"]
+	path = plugin/holmes
+	url = https://github.com/habari-extras/holmes.git
