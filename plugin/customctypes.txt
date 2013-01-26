@@ -1,0 +1,1 @@
+Allows admins to create new content types.

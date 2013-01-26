@@ -52,3 +52,6 @@
 [submodule "plugin/crontabmanager"]
 	path = plugin/crontabmanager
 	url = https://github.com/habari-extras/crontabmanager.git
+[submodule "plugin/customctypes"]
+	path = plugin/customctypes
+	url = https://github.com/habari-extras/customctypes.git
