@@ -532,3 +532,6 @@
 [submodule "plugin/session_manager"]
 	path = plugin/session_manager
 	url = https://github.com/habari-extras/session_manager.git
+[submodule "plugin/share"]
+	path = plugin/share
+	url = https://github.com/habari-extras/share.git
