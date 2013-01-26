@@ -385,3 +385,6 @@
 [submodule "plugin/partytime"]
 	path = plugin/partytime
 	url = https://github.com/habari-extras/partytime.git
+[submodule "plugin/passwdlogins"]
+	path = plugin/passwdlogins
+	url = https://github.com/habari-extras/passwdlogins.git

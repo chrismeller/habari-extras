@@ -1,0 +1,1 @@
+Gets password information for users from a passwd-generated file.
