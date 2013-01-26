@@ -370,3 +370,6 @@
 [submodule "plugin/page_dropdown"]
 	path = plugin/page_dropdown
 	url = https://github.com/habari-extras/page_dropdown.git
+[submodule "plugin/page_subtitle"]
+	path = plugin/page_subtitle
+	url = https://github.com/habari-extras/page_subtitle.git
