@@ -682,3 +682,6 @@
 [submodule "plugin/twittersilo"]
 	path = plugin/twittersilo
 	url = https://github.com/habari-extras/twittersilo.git
+[submodule "plugin/typekit"]
+	path = plugin/typekit
+	url = https://github.com/habari-extras/typekit.git
