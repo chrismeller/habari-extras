@@ -952,3 +952,6 @@
 [submodule "plugin/scheduleddashmodule"]
 	path = plugin/scheduleddashmodule
 	url = https://github.com/habari-extras/scheduleddashmodule.git
+[submodule "plugin/nameguard"]
+	path = plugin/nameguard
+	url = https://github.com/habari-extras/nameguard.git
