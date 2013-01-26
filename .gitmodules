@@ -946,3 +946,6 @@
 [submodule "plugin/microblog"]
 	path = plugin/microblog
 	url = https://github.com/habari-extras/microblog.git
+[submodule "plugin/viddlersilo"]
+	path = plugin/viddlersilo
+	url = https://github.com/habari-extras/viddlersilo.git
