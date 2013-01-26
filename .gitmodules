@@ -772,3 +772,6 @@
 [submodule "plugin/asciify"]
 	path = plugin/asciify
 	url = https://github.com/habari-extras/asciify.git
+[submodule "plugin/atomthreading"]
+	path = plugin/atomthreading
+	url = https://github.com/habari-extras/atomthreading.git
