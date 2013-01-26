@@ -592,3 +592,6 @@
 [submodule "plugin/spoilers"]
 	path = plugin/spoilers
 	url = https://github.com/habari-extras/spoilers.git
+[submodule "plugin/sqlite_snapshot"]
+	path = plugin/sqlite_snapshot
+	url = https://github.com/habari-extras/sqlite_snapshot.git

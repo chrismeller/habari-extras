@@ -1,0 +1,1 @@
+Quickly create and restore snapshots of the sqlite database file.
