@@ -298,3 +298,6 @@
 [submodule "plugin/login_redirect"]
 	path = plugin/login_redirect
 	url = https://github.com/habari-extras/login_redirect.git
+[submodule "plugin/loupable"]
+	path = plugin/loupable
+	url = https://github.com/habari-extras/loupable.git
