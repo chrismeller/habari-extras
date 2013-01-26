@@ -160,3 +160,6 @@
 [submodule "plugin/geolocations_mashup"]
 	path = plugin/geolocations_mashup
 	url = https://github.com/habari-extras/geolocations_mashup.git
+[submodule "plugin/geotags"]
+	path = plugin/geotags
+	url = https://github.com/habari-extras/geotags.git
