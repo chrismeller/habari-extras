@@ -1,0 +1,1 @@
+Outputs an RSS or Atom feed as an unordered list.
