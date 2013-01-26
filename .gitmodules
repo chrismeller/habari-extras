@@ -898,3 +898,6 @@
 [submodule "plugin/pluginloader"]
 	path = plugin/pluginloader
 	url = https://github.com/habari-extras/pluginloader.git
+[submodule "plugin/relativelypopular"]
+	path = plugin/relativelypopular
+	url = https://github.com/habari-extras/relativelypopular.git

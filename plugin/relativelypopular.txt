@@ -1,0 +1,1 @@
+Track views of individual entries over a rolling time period, and allow the display of most the frequently accessed entries.
