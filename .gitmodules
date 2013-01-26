@@ -244,3 +244,6 @@
 [submodule "plugin/interwiki"]
 	path = plugin/interwiki
 	url = https://github.com/habari-extras/interwiki.git
+[submodule "plugin/jaiku"]
+	path = plugin/jaiku
+	url = https://github.com/habari-extras/jaiku.git
