@@ -472,3 +472,6 @@
 [submodule "plugin/projectr"]
 	path = plugin/projectr
 	url = https://github.com/habari-extras/projectr.git
+[submodule "broken/projects"]
+	path = broken/projects
+	url = https://github.com/habari-extras/projects.git

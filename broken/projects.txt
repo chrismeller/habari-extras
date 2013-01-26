@@ -1,0 +1,1 @@
+Not a replacement for the better systems such as Trac or a true SVN, but will help any developer manage their projects, clients, scripts, and more.
