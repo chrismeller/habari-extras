@@ -739,3 +739,6 @@
 [submodule "plugin/bitly"]
 	path = plugin/bitly
 	url = https://github.com/habari-extras/bitly.git
+[submodule "plugin/FreeStyle"]
+	path = plugin/FreeStyle
+	url = https://github.com/habari-extras/FreeStyle.git

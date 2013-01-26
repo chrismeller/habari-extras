@@ -1,0 +1,1 @@
+Allows you to inject arbitrary CSS into themes.
