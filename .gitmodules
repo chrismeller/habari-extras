@@ -76,3 +76,6 @@
 [submodule "plugin/diggbarblocker"]
 	path = plugin/diggbarblocker
 	url = https://github.com/habari-extras/diggbarblocker.git
+[submodule "broken/diigosilo"]
+	path = broken/diigosilo
+	url = https://github.com/habari-extras/diigosilo.git
