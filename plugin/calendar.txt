@@ -1,0 +1,1 @@
+Displays calendar on your blog.

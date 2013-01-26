@@ -10,3 +10,6 @@
 [submodule "plugin/bumping"]
 	path = plugin/bumping
 	url = https://github.com/habari-extras/bumping.git
+[submodule "plugin/calendar"]
+	path = plugin/calendar
+	url = https://github.com/habari-extras/calendar.git
