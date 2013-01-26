@@ -832,3 +832,6 @@
 [submodule "theme/fun-with-photos"]
 	path = theme/fun-with-photos
 	url = https://github.com/habari-extras/fun-with-photos.git
+[submodule "theme/georgia"]
+	path = theme/georgia
+	url = https://github.com/habari-extras/georgia.git
