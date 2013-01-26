@@ -577,3 +577,6 @@
 [submodule "plugin/socialink"]
 	path = plugin/socialink
 	url = https://github.com/habari-extras/socialink.git
+[submodule "plugin/solvemedia"]
+	path = plugin/solvemedia
+	url = https://github.com/habari-extras/solvemedia.git
