@@ -799,3 +799,6 @@
 [submodule "plugin/atomicon"]
 	path = plugin/atomicon
 	url = https://github.com/habari-extras/atomicon.git
+[submodule "plugin/autosave"]
+	path = plugin/autosave
+	url = https://github.com/habari-extras/autosave.git
