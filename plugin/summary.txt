@@ -1,0 +1,1 @@
+A plugin for providing post summaries

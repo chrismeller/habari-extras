@@ -613,3 +613,6 @@
 [submodule "plugin/suggestr"]
 	path = plugin/suggestr
 	url = https://github.com/habari-extras/suggestr.git
+[submodule "plugin/summary"]
+	path = plugin/summary
+	url = https://github.com/habari-extras/summary.git
