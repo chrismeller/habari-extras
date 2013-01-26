@@ -1,0 +1,1 @@
+Allows users to post quotes with a bookmarklet.

@@ -475,3 +475,6 @@
 [submodule "broken/projects"]
 	path = broken/projects
 	url = https://github.com/habari-extras/projects.git
+[submodule "plugin/publish_quote"]
+	path = plugin/publish_quote
+	url = https://github.com/habari-extras/publish_quote.git
