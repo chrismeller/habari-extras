@@ -436,3 +436,6 @@
 [submodule "plugin/populate"]
 	path = plugin/populate
 	url = https://github.com/habari-extras/populate.git
+[submodule "plugin/postblock"]
+	path = plugin/postblock
+	url = https://github.com/habari-extras/postblock.git
