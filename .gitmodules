@@ -685,3 +685,6 @@
 [submodule "plugin/typekit"]
 	path = plugin/typekit
 	url = https://github.com/habari-extras/typekit.git
+[submodule "plugin/typogrify"]
+	path = plugin/typogrify
+	url = https://github.com/habari-extras/typogrify.git
