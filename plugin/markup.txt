@@ -1,0 +1,1 @@
+Adds easy HTML, Markdown, BBCode, or Textile tag insertion to Habari's editor and optionally your FormUI comment form.

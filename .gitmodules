@@ -316,3 +316,6 @@
 [submodule "plugin/maintenance_mode"]
 	path = plugin/maintenance_mode
 	url = https://github.com/habari-extras/maintenance_mode.git
+[submodule "plugin/markup"]
+	path = plugin/markup
+	url = https://github.com/habari-extras/markup.git
