@@ -706,3 +706,6 @@
 [submodule "plugin/viewblog"]
 	path = plugin/viewblog
 	url = https://github.com/habari-extras/viewblog.git
+[submodule "plugin/vimeosilo"]
+	path = plugin/vimeosilo
+	url = https://github.com/habari-extras/vimeosilo.git
