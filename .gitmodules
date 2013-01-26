@@ -427,3 +427,6 @@
 [submodule "plugin/podcast"]
 	path = plugin/podcast
 	url = https://github.com/habari-extras/podcast.git
+[submodule "plugin/polls"]
+	path = plugin/polls
+	url = https://github.com/habari-extras/polls.git
