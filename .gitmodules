@@ -226,3 +226,6 @@
 [submodule "plugin/ie_admin"]
 	path = plugin/ie_admin
 	url = https://github.com/habari-extras/ie_admin.git
+[submodule "plugin/import"]
+	path = plugin/import
+	url = https://github.com/habari-extras/import.git
