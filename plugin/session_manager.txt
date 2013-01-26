@@ -1,0 +1,1 @@
+Prevents spiders from filling the session table and allows you to alter the garbage collection probability.

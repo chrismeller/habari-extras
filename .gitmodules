@@ -529,3 +529,6 @@
 [submodule "plugin/scratchpad"]
 	path = plugin/scratchpad
 	url = https://github.com/habari-extras/scratchpad.git
+[submodule "plugin/session_manager"]
+	path = plugin/session_manager
+	url = https://github.com/habari-extras/session_manager.git
