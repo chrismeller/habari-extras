@@ -631,3 +631,6 @@
 [submodule "plugin/tagtray"]
 	path = plugin/tagtray
 	url = https://github.com/habari-extras/tagtray.git
+[submodule "plugin/technorati"]
+	path = plugin/technorati
+	url = https://github.com/habari-extras/technorati.git
