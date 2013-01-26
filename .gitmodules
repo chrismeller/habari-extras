@@ -877,3 +877,6 @@
 [submodule "theme/simpler"]
 	path = theme/simpler
 	url = https://github.com/habari-extras/simpler.git
+[submodule "theme/simplerer"]
+	path = theme/simplerer
+	url = https://github.com/habari-extras/simplerer.git
