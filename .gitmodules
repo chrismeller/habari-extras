@@ -604,3 +604,6 @@
 [submodule "plugin/statusnet"]
 	path = plugin/statusnet
 	url = https://github.com/habari-extras/statusnet.git
+[submodule "plugin/styleswitcher"]
+	path = plugin/styleswitcher
+	url = https://github.com/habari-extras/styleswitcher.git
