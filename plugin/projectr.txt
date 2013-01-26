@@ -1,0 +1,1 @@
+Allows management of non-profit projects.
