@@ -673,3 +673,6 @@
 [submodule "plugin/twitter_avatar"]
 	path = plugin/twitter_avatar
 	url = https://github.com/habari-extras/twitter_avatar.git
+[submodule "plugin/twittercomments"]
+	path = plugin/twittercomments
+	url = https://github.com/habari-extras/twittercomments.git
