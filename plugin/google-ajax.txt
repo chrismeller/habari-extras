@@ -1,0 +1,1 @@
+Overwrites local paths to common Javascript libraries, like jQuery, MooTool etc, with the paths hosted by Google using either direct links or Google's google.load() method.

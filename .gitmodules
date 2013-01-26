@@ -169,3 +169,6 @@
 [submodule "plugin/goodcode"]
 	path = plugin/goodcode
 	url = https://github.com/habari-extras/goodcode.git
+[submodule "plugin/google-ajax"]
+	path = plugin/google-ajax
+	url = https://github.com/habari-extras/google-ajax.git
