@@ -1,0 +1,1 @@
+Send an email to the author of a post whenever a non-spam comment is moderated for one of their posts.
