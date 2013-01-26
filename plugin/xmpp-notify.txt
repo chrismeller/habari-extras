@@ -1,0 +1,1 @@
+Implements basic XMPP Notification for Habari

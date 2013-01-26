@@ -715,3 +715,6 @@
 [submodule "plugin/xenophobe"]
 	path = plugin/xenophobe
 	url = https://github.com/habari-extras/xenophobe.git
+[submodule "plugin/xmpp-notify"]
+	path = plugin/xmpp-notify
+	url = https://github.com/habari-extras/xmpp-notify.git
