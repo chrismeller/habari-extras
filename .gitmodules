@@ -211,3 +211,6 @@
 [submodule "plugin/helpify"]
 	path = plugin/helpify
 	url = https://github.com/habari-extras/helpify.git
+[submodule "plugin/highlighter"]
+	path = plugin/highlighter
+	url = https://github.com/habari-extras/highlighter.git
