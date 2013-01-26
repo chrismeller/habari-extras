@@ -373,3 +373,6 @@
 [submodule "plugin/page_subtitle"]
 	path = plugin/page_subtitle
 	url = https://github.com/habari-extras/page_subtitle.git
+[submodule "plugin/pageless"]
+	path = plugin/pageless
+	url = https://github.com/habari-extras/pageless.git

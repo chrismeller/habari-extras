@@ -1,0 +1,1 @@
+Give your blog the ability of infinite scrolling, instead of breaking content into ‘pages.’
