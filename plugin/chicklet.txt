@@ -1,0 +1,1 @@
+This plugin creates two new blocks which show off statistics about your blog, including information pulled from Feedburner.

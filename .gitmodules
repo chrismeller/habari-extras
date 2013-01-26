@@ -13,3 +13,6 @@
 [submodule "plugin/calendar"]
 	path = plugin/calendar
 	url = https://github.com/habari-extras/calendar.git
+[submodule "plugin/chicklet"]
+	path = plugin/chicklet
+	url = https://github.com/habari-extras/chicklet.git
