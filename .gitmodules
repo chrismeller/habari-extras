@@ -277,3 +277,6 @@
 [submodule "plugin/lilliputian"]
 	path = plugin/lilliputian
 	url = https://github.com/habari-extras/lilliputian.git
+[submodule "broken/limitaccess"]
+	path = broken/limitaccess
+	url = https://github.com/habari-extras/limitaccess.git

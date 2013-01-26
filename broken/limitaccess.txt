@@ -1,0 +1,1 @@
+Limits certain users to specific features - to eventually be replaced by the full core ACL implementation
