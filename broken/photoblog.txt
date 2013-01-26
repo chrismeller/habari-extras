@@ -1,0 +1,1 @@
+Adds features needed to create a photoblog.

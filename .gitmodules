@@ -394,3 +394,6 @@
 [submodule "plugin/persistance"]
 	path = plugin/persistance
 	url = https://github.com/habari-extras/persistance.git
+[submodule "broken/photoblog"]
+	path = broken/photoblog
+	url = https://github.com/habari-extras/photoblog.git
