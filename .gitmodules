@@ -703,3 +703,6 @@
 [submodule "plugin/userfields"]
 	path = plugin/userfields
 	url = https://github.com/habari-extras/userfields.git
+[submodule "plugin/viewblog"]
+	path = plugin/viewblog
+	url = https://github.com/habari-extras/viewblog.git

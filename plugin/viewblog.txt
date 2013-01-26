@@ -1,0 +1,1 @@
+Adds an extra menu item for viewing the blog.
