@@ -1,0 +1,1 @@
+Allows an admin to mark commenter URLs to link through a redirector instead of directly linking

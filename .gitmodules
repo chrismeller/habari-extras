@@ -694,3 +694,6 @@
 [submodule "plugin/upx"]
 	path = plugin/upx
 	url = https://github.com/habari-extras/upx.git
+[submodule "plugin/urlapprove"]
+	path = plugin/urlapprove
+	url = https://github.com/habari-extras/urlapprove.git
