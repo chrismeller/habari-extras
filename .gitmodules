@@ -115,3 +115,6 @@
 [submodule "plugin/extendedlog"]
 	path = plugin/extendedlog
 	url = https://github.com/habari-extras/extendedlog.git
+[submodule "plugin/extra_content"]
+	path = plugin/extra_content
+	url = https://github.com/habari-extras/extra_content.git
