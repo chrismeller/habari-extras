@@ -910,3 +910,6 @@
 [submodule "theme/TheViewInside"]
 	path = theme/TheViewInside
 	url = https://github.com/habari-extras/TheViewInside.git
+[submodule "plugin/blogroll"]
+	path = plugin/blogroll
+	url = https://github.com/habari-extras/blogroll.git
