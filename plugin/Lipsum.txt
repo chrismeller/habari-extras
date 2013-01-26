@@ -1,0 +1,1 @@
+Creates random sample data to test themes and plugins. Includes random posts, comments, and tags.

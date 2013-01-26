@@ -748,3 +748,6 @@
 [submodule "broken/FreshSurf"]
 	path = broken/FreshSurf
 	url = https://github.com/habari-extras/FreshSurf.git
+[submodule "plugin/Lipsum"]
+	path = plugin/Lipsum
+	url = https://github.com/habari-extras/Lipsum.git
