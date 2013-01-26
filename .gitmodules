@@ -295,3 +295,6 @@
 [submodule "plugin/lockout"]
 	path = plugin/lockout
 	url = https://github.com/habari-extras/lockout.git
+[submodule "plugin/login_redirect"]
+	path = plugin/login_redirect
+	url = https://github.com/habari-extras/login_redirect.git
