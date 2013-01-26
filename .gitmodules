@@ -166,3 +166,6 @@
 [submodule "plugin/getclicky"]
 	path = plugin/getclicky
 	url = https://github.com/habari-extras/getclicky.git
+[submodule "plugin/goodcode"]
+	path = plugin/goodcode
+	url = https://github.com/habari-extras/goodcode.git

@@ -1,0 +1,1 @@
+Attempts to make your html better and removes or replaces presentational markup, while also making Habari trust you to write good code.
