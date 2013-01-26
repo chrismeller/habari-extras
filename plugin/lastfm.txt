@@ -1,0 +1,1 @@
+Allows data from last.fm to be inserted into posts.

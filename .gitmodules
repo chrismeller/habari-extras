@@ -265,3 +265,6 @@
 [submodule "plugin/keywords"]
 	path = plugin/keywords
 	url = https://github.com/habari-extras/keywords.git
+[submodule "plugin/lastfm"]
+	path = plugin/lastfm
+	url = https://github.com/habari-extras/lastfm.git
