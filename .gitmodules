@@ -760,3 +760,6 @@
 [submodule "plugin/admindetour"]
 	path = plugin/admindetour
 	url = https://github.com/habari-extras/admindetour.git
+[submodule "broken/admintheme"]
+	path = broken/admintheme
+	url = https://github.com/habari-extras/admintheme.git

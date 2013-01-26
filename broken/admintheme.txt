@@ -1,0 +1,1 @@
+A replacement admin for Habari - put the required admin files and directories in the directory with this plugin
