@@ -871,3 +871,6 @@
 [submodule "theme/redarry"]
 	path = theme/redarry
 	url = https://github.com/habari-extras/redarry.git
+[submodule "theme/rino"]
+	path = theme/rino
+	url = https://github.com/habari-extras/rino.git
