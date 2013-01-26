@@ -433,3 +433,6 @@
 [submodule "plugin/popular_posts"]
 	path = plugin/popular_posts
 	url = https://github.com/habari-extras/popular_posts.git
+[submodule "plugin/populate"]
+	path = plugin/populate
+	url = https://github.com/habari-extras/populate.git
