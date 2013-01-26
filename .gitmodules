@@ -58,3 +58,6 @@
 [submodule "plugin/customquery"]
 	path = plugin/customquery
 	url = https://github.com/habari-extras/customquery.git
+[submodule "plugin/database_optimizer"]
+	path = plugin/database_optimizer
+	url = https://github.com/habari-extras/database_optimizer.git

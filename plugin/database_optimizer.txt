@@ -1,0 +1,1 @@
+Automagically optimizes your database tables on a schedule you set.
