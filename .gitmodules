@@ -862,3 +862,6 @@
 [submodule "theme/null"]
 	path = theme/null
 	url = https://github.com/habari-extras/null.git
+[submodule "theme/oldprice"]
+	path = theme/oldprice
+	url = https://github.com/habari-extras/oldprice.git
