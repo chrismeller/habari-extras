@@ -187,3 +187,6 @@
 [submodule "plugin/gravatar"]
 	path = plugin/gravatar
 	url = https://github.com/habari-extras/gravatar.git
+[submodule "plugin/habari_import"]
+	path = plugin/habari_import
+	url = https://github.com/habari-extras/habari_import.git
