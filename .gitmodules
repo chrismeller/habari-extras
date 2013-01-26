@@ -652,3 +652,6 @@
 [submodule "plugin/threaded_comment"]
 	path = plugin/threaded_comment
 	url = https://github.com/habari-extras/threaded_comment.git
+[submodule "plugin/throttle"]
+	path = plugin/throttle
+	url = https://github.com/habari-extras/throttle.git

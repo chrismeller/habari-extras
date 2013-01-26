@@ -1,0 +1,1 @@
+Turns off certain capabilities when the server load exceeds a certain number.
