@@ -1,0 +1,1 @@
+Provides a block with instant search results using jquery.

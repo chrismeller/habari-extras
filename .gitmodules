@@ -238,3 +238,6 @@
 [submodule "plugin/inlineblock"]
 	path = plugin/inlineblock
 	url = https://github.com/habari-extras/inlineblock.git
+[submodule "plugin/instant_search"]
+	path = plugin/instant_search
+	url = https://github.com/habari-extras/instant_search.git
