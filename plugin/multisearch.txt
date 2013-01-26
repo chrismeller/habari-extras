@@ -1,0 +1,1 @@
+Replace the built in search functionality. Requires configuration after installing before any functionality is added.

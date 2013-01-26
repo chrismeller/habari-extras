@@ -346,3 +346,6 @@
 [submodule "broken/mtimport"]
 	path = broken/mtimport
 	url = https://github.com/habari-extras/mtimport.git
+[submodule "plugin/multisearch"]
+	path = plugin/multisearch
+	url = https://github.com/habari-extras/multisearch.git
