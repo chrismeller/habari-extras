@@ -1,0 +1,1 @@
+Text export (and eventually import) of posts (for offline editing, and otherwise avoiding nasty textareas)
