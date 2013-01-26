@@ -235,3 +235,6 @@
 [submodule "plugin/inline_edit"]
 	path = plugin/inline_edit
 	url = https://github.com/habari-extras/inline_edit.git
+[submodule "plugin/inlineblock"]
+	path = plugin/inlineblock
+	url = https://github.com/habari-extras/inlineblock.git

@@ -1,0 +1,1 @@
+Outputs editing buttons near blocks in the output that link to the block editing form.
