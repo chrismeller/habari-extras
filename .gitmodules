@@ -1,3 +1,6 @@
 [submodule "plugin/breezyarchives"]
 	path = plugin/breezyarchives
 	url = https://github.com/habari-extras/breezyarchives.git
+[submodule "plugin/bricks"]
+	path = plugin/bricks
+	url = https://github.com/habari-extras/bricks.git
