@@ -1,0 +1,1 @@
+Add OpenSearch 1.1 support to Habari.

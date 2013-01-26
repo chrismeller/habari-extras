@@ -361,3 +361,6 @@
 [submodule "plugin/openid_delegation"]
 	path = plugin/openid_delegation
 	url = https://github.com/habari-extras/openid_delegation.git
+[submodule "broken/opensearch"]
+	path = broken/opensearch
+	url = https://github.com/habari-extras/opensearch.git
