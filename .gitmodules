@@ -721,3 +721,6 @@
 [submodule "plugin/xpsf-mini"]
 	path = plugin/xpsf-mini
 	url = https://github.com/habari-extras/xpsf-mini.git
+[submodule "plugin/youtubesilo"]
+	path = plugin/youtubesilo
+	url = https://github.com/habari-extras/youtubesilo.git
