@@ -229,3 +229,6 @@
 [submodule "plugin/import"]
 	path = plugin/import
 	url = https://github.com/habari-extras/import.git
+[submodule "plugin/incoming_links"]
+	path = plugin/incoming_links
+	url = https://github.com/habari-extras/incoming_links.git
