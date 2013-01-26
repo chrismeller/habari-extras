@@ -19,3 +19,6 @@
 [submodule "plugin/chyrpimport"]
 	path = plugin/chyrpimport
 	url = https://github.com/habari-extras/chyrpimport.git
+[submodule "plugin/cisco"]
+	path = plugin/cisco
+	url = https://github.com/habari-extras/cisco.git
