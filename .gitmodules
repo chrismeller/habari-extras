@@ -820,3 +820,6 @@
 [submodule "theme/binadamu"]
 	path = theme/binadamu
 	url = https://github.com/habari-extras/binadamu.git
+[submodule "theme/blossom"]
+	path = theme/blossom
+	url = https://github.com/habari-extras/blossom.git
