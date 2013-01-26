@@ -307,3 +307,6 @@
 [submodule "plugin/magic_archives"]
 	path = plugin/magic_archives
 	url = https://github.com/habari-extras/magic_archives.git
+[submodule "plugin/magictags"]
+	path = plugin/magictags
+	url = https://github.com/habari-extras/magictags.git
