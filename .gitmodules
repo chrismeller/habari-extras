@@ -661,3 +661,6 @@
 [submodule "plugin/tracfeed"]
 	path = plugin/tracfeed
 	url = https://github.com/habari-extras/tracfeed.git
+[submodule "plugin/tweetsuite"]
+	path = plugin/tweetsuite
+	url = https://github.com/habari-extras/tweetsuite.git
