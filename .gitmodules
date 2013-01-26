@@ -730,3 +730,6 @@
 [submodule "plugin/acronyms"]
 	path = plugin/acronyms
 	url = https://github.com/habari-extras/acronyms.git
+[submodule "plugin/autopinger"]
+	path = plugin/autopinger
+	url = https://github.com/habari-extras/autopinger.git
