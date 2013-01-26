@@ -1,0 +1,1 @@
+Post to and display from <a href="http://status.net">StatusNet</a> &micro;blog servers.

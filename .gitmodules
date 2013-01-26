@@ -601,3 +601,6 @@
 [submodule "plugin/staticfront"]
 	path = plugin/staticfront
 	url = https://github.com/habari-extras/staticfront.git
+[submodule "plugin/statusnet"]
+	path = plugin/statusnet
+	url = https://github.com/habari-extras/statusnet.git
