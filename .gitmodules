@@ -286,3 +286,6 @@
 [submodule "plugin/linkoid"]
 	path = plugin/linkoid
 	url = https://github.com/habari-extras/linkoid.git
+[submodule "plugin/livehelp"]
+	path = plugin/livehelp
+	url = https://github.com/habari-extras/livehelp.git

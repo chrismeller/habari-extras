@@ -1,0 +1,1 @@
+Allows users to connect to #habari on IRC from within the admin.
