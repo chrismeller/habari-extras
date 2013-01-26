@@ -448,3 +448,6 @@
 [submodule "plugin/posturl"]
 	path = plugin/posturl
 	url = https://github.com/habari-extras/posturl.git
+[submodule "plugin/postwordcount"]
+	path = plugin/postwordcount
+	url = https://github.com/habari-extras/postwordcount.git
