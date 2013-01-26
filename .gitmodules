@@ -439,3 +439,6 @@
 [submodule "plugin/postblock"]
 	path = plugin/postblock
 	url = https://github.com/habari-extras/postblock.git
+[submodule "plugin/postfields"]
+	path = plugin/postfields
+	url = https://github.com/habari-extras/postfields.git

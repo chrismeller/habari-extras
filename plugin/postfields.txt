@@ -1,0 +1,1 @@
+Display additional fields on the post page in the tabs to let authors add additional metadata to their posts.
