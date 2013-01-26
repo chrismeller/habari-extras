@@ -40,3 +40,6 @@
 [submodule "plugin/commentated"]
 	path = plugin/commentated
 	url = https://github.com/habari-extras/commentated.git
+[submodule "plugin/commonblocks"]
+	path = plugin/commonblocks
+	url = https://github.com/habari-extras/commonblocks.git
