@@ -82,3 +82,6 @@
 [submodule "plugin/discussit"]
 	path = plugin/discussit
 	url = https://github.com/habari-extras/discussit.git
+[submodule "plugin/disqus"]
+	path = plugin/disqus
+	url = https://github.com/habari-extras/disqus.git
