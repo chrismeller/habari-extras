@@ -382,3 +382,6 @@
 [submodule "broken/paginator"]
 	path = broken/paginator
 	url = https://github.com/habari-extras/paginator.git
+[submodule "plugin/partytime"]
+	path = plugin/partytime
+	url = https://github.com/habari-extras/partytime.git
