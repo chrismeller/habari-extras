@@ -580,3 +580,6 @@
 [submodule "plugin/solvemedia"]
 	path = plugin/solvemedia
 	url = https://github.com/habari-extras/solvemedia.git
+[submodule "plugin/spamcrondelete"]
+	path = plugin/spamcrondelete
+	url = https://github.com/habari-extras/spamcrondelete.git
