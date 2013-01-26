@@ -268,3 +268,6 @@
 [submodule "plugin/lastfm"]
 	path = plugin/lastfm
 	url = https://github.com/habari-extras/lastfm.git
+[submodule "plugin/lastrecent"]
+	path = plugin/lastrecent
+	url = https://github.com/habari-extras/lastrecent.git

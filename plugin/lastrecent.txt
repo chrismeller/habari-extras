@@ -1,0 +1,1 @@
+Retrieves recently played track names from last.fm
