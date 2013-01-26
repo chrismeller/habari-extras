@@ -853,3 +853,6 @@
 [submodule "theme/lace"]
 	path = theme/lace
 	url = https://github.com/habari-extras/lace.git
+[submodule "theme/milk"]
+	path = theme/milk
+	url = https://github.com/habari-extras/milk.git
