@@ -325,3 +325,6 @@
 [submodule "plugin/metaweblog"]
 	path = plugin/metaweblog
 	url = https://github.com/habari-extras/metaweblog.git
+[submodule "plugin/microid"]
+	path = plugin/microid
+	url = https://github.com/habari-extras/microid.git

@@ -1,0 +1,1 @@
+Generates a MicroID for services such as ClaimID.  Includes generation code based on Will Norris's original release.
