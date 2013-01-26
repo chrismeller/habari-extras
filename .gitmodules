@@ -151,3 +151,6 @@
 [submodule "plugin/ga_dashboard"]
 	path = plugin/ga_dashboard
 	url = https://github.com/habari-extras/ga_dashboard.git
+[submodule "broken/gallr"]
+	path = broken/gallr
+	url = https://github.com/habari-extras/gallr.git
