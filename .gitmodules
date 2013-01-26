@@ -535,3 +535,6 @@
 [submodule "plugin/share"]
 	path = plugin/share
 	url = https://github.com/habari-extras/share.git
+[submodule "plugin/sharedraft"]
+	path = plugin/sharedraft
+	url = https://github.com/habari-extras/sharedraft.git
