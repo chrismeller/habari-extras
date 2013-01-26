@@ -700,3 +700,6 @@
 [submodule "plugin/urlbounce"]
 	path = plugin/urlbounce
 	url = https://github.com/habari-extras/urlbounce.git
+[submodule "plugin/userfields"]
+	path = plugin/userfields
+	url = https://github.com/habari-extras/userfields.git

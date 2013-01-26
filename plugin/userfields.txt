@@ -1,0 +1,1 @@
+Allows site administrators to create new user data fields.
