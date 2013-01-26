@@ -781,3 +781,6 @@
 [submodule "plugin/authorurls"]
 	path = plugin/authorurls
 	url = https://github.com/habari-extras/authorurls.git
+[submodule "plugin/autoapprove"]
+	path = plugin/autoapprove
+	url = https://github.com/habari-extras/autoapprove.git
