@@ -304,3 +304,6 @@
 [submodule "plugin/macros"]
 	path = plugin/macros
 	url = https://github.com/habari-extras/macros.git
+[submodule "plugin/magic_archives"]
+	path = plugin/magic_archives
+	url = https://github.com/habari-extras/magic_archives.git
