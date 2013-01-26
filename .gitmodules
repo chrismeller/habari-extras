@@ -349,3 +349,6 @@
 [submodule "plugin/multisearch"]
 	path = plugin/multisearch
 	url = https://github.com/habari-extras/multisearch.git
+[submodule "plugin/notify_all"]
+	path = plugin/notify_all
+	url = https://github.com/habari-extras/notify_all.git
