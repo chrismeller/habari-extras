@@ -895,3 +895,6 @@
 [submodule "plugin/recaptcha"]
 	path = plugin/recaptcha
 	url = https://github.com/habari-extras/recaptcha.git
+[submodule "plugin/pluginloader"]
+	path = plugin/pluginloader
+	url = https://github.com/habari-extras/pluginloader.git

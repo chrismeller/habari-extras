@@ -1,0 +1,1 @@
+Provides a method to list plugins and install them remotely.
