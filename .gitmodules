@@ -175,3 +175,6 @@
 [submodule "plugin/google-code-prettify"]
 	path = plugin/google-code-prettify
 	url = https://github.com/habari-extras/google-code-prettify.git
+[submodule "plugin/googleads"]
+	path = plugin/googleads
+	url = https://github.com/habari-extras/googleads.git
