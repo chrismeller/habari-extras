@@ -868,3 +868,6 @@
 [submodule "theme/phoenixblue"]
 	path = theme/phoenixblue
 	url = https://github.com/habari-extras/phoenixblue.git
+[submodule "theme/redarry"]
+	path = theme/redarry
+	url = https://github.com/habari-extras/redarry.git
