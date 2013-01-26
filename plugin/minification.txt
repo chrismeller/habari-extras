@@ -1,0 +1,1 @@
+Minifies html, css and js as well as combines all css and js files. Uses http://code.google.com/p/minify/

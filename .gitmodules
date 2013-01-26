@@ -328,3 +328,6 @@
 [submodule "plugin/microid"]
 	path = plugin/microid
 	url = https://github.com/habari-extras/microid.git
+[submodule "plugin/minification"]
+	path = plugin/minification
+	url = https://github.com/habari-extras/minification.git
