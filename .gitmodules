@@ -154,3 +154,6 @@
 [submodule "broken/gallr"]
 	path = broken/gallr
 	url = https://github.com/habari-extras/gallr.git
+[submodule "plugin/geolocations"]
+	path = plugin/geolocations
+	url = https://github.com/habari-extras/geolocations.git
