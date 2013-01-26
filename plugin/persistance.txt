@@ -1,0 +1,1 @@
+Alows you to authenticate to your Habari installation via a cookie stored on your PC

@@ -391,3 +391,6 @@
 [submodule "plugin/pbem"]
 	path = plugin/pbem
 	url = https://github.com/habari-extras/pbem.git
+[submodule "plugin/persistance"]
+	path = plugin/persistance
+	url = https://github.com/habari-extras/persistance.git
