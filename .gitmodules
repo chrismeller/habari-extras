@@ -37,3 +37,6 @@
 [submodule "plugin/comment_notifier"]
 	path = plugin/comment_notifier
 	url = https://github.com/habari-extras/comment_notifier.git
+[submodule "plugin/commentated"]
+	path = plugin/commentated
+	url = https://github.com/habari-extras/commentated.git
