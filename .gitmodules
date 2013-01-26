@@ -97,3 +97,6 @@
 [submodule "broken/dropiosilo"]
 	path = broken/dropiosilo
 	url = https://github.com/habari-extras/dropiosilo.git
+[submodule "plugin/drupalimport"]
+	path = plugin/drupalimport
+	url = https://github.com/habari-extras/drupalimport.git
