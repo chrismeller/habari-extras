@@ -883,3 +883,6 @@
 [submodule "theme/spark"]
 	path = theme/spark
 	url = https://github.com/habari-extras/spark.git
+[submodule "theme/thePrestige"]
+	path = theme/thePrestige
+	url = https://github.com/habari-extras/thePrestige.git
