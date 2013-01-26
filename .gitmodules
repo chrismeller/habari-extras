@@ -196,3 +196,6 @@
 [submodule "plugin/habaridiggbarkiller"]
 	path = plugin/habaridiggbarkiller
 	url = https://github.com/habari-extras/habaridiggbarkiller.git
+[submodule "plugin/habarimarkdown"]
+	path = plugin/habarimarkdown
+	url = https://github.com/habari-extras/habarimarkdown.git
