@@ -766,3 +766,6 @@
 [submodule "plugin/aliencontact"]
 	path = plugin/aliencontact
 	url = https://github.com/habari-extras/aliencontact.git
+[submodule "plugin/amazon"]
+	path = plugin/amazon
+	url = https://github.com/habari-extras/amazon.git
