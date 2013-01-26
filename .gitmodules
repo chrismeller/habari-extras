@@ -64,3 +64,6 @@
 [submodule "plugin/date_ninja"]
 	path = plugin/date_ninja
 	url = https://github.com/habari-extras/date_ninja.git
+[submodule "plugin/dateyurl"]
+	path = plugin/dateyurl
+	url = https://github.com/habari-extras/dateyurl.git

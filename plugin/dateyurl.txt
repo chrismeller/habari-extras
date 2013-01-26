@@ -1,0 +1,1 @@
+Makes entry urls in the form /{year}/{month}/{day}/{slug} or /{year}/{month}/{slug}. <strong>Ensure the Route 301 plugin is not also attempting to rewrite your choice!</strong>
