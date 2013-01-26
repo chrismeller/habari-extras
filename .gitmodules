@@ -271,3 +271,6 @@
 [submodule "plugin/lastrecent"]
 	path = plugin/lastrecent
 	url = https://github.com/habari-extras/lastrecent.git
+[submodule "plugin/lifestream"]
+	path = plugin/lifestream
+	url = https://github.com/habari-extras/lifestream.git
