@@ -568,3 +568,6 @@
 [submodule "plugin/sitemaps"]
 	path = plugin/sitemaps
 	url = https://github.com/habari-extras/sitemaps.git
+[submodule "plugin/slimbox2"]
+	path = plugin/slimbox2
+	url = https://github.com/habari-extras/slimbox2.git
