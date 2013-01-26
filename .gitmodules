@@ -355,3 +355,6 @@
 [submodule "plugin/ohloh_badge"]
 	path = plugin/ohloh_badge
 	url = https://github.com/habari-extras/ohloh_badge.git
+[submodule "plugin/openid"]
+	path = plugin/openid
+	url = https://github.com/habari-extras/openid.git
