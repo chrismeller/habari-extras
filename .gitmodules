@@ -364,3 +364,6 @@
 [submodule "broken/opensearch"]
 	path = broken/opensearch
 	url = https://github.com/habari-extras/opensearch.git
+[submodule "plugin/optionsmanager"]
+	path = plugin/optionsmanager
+	url = https://github.com/habari-extras/optionsmanager.git

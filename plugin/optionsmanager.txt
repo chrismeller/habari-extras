@@ -1,0 +1,1 @@
+Manages and exposes all Habari options within the habari options table. Note: This is powerful, with no undelete, so be careful!
