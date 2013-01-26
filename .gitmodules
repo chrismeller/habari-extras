@@ -697,3 +697,6 @@
 [submodule "plugin/urlapprove"]
 	path = plugin/urlapprove
 	url = https://github.com/habari-extras/urlapprove.git
+[submodule "plugin/urlbounce"]
+	path = plugin/urlbounce
+	url = https://github.com/habari-extras/urlbounce.git
