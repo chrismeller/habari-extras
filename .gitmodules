@@ -91,3 +91,6 @@
 [submodule "plugin/download-plugin"]
 	path = plugin/download-plugin
 	url = https://github.com/habari-extras/download-plugin.git
+[submodule "plugin/draftdashmodule"]
+	path = plugin/draftdashmodule
+	url = https://github.com/habari-extras/draftdashmodule.git
