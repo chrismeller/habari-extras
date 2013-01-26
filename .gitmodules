@@ -67,3 +67,6 @@
 [submodule "plugin/dateyurl"]
 	path = plugin/dateyurl
 	url = https://github.com/habari-extras/dateyurl.git
+[submodule "plugin/defensio"]
+	path = plugin/defensio
+	url = https://github.com/habari-extras/defensio.git
