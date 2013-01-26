@@ -403,3 +403,6 @@
 [submodule "plugin/photoslide"]
 	path = plugin/photoslide
 	url = https://github.com/habari-extras/photoslide.git
+[submodule "plugin/photozousilo"]
+	path = plugin/photozousilo
+	url = https://github.com/habari-extras/photozousilo.git
