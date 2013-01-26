@@ -886,3 +886,6 @@
 [submodule "theme/thePrestige"]
 	path = theme/thePrestige
 	url = https://github.com/habari-extras/thePrestige.git
+[submodule "theme/wings"]
+	path = theme/wings
+	url = https://github.com/habari-extras/wings.git
