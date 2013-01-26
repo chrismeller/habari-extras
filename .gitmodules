@@ -85,3 +85,6 @@
 [submodule "plugin/disqus"]
 	path = plugin/disqus
 	url = https://github.com/habari-extras/disqus.git
+[submodule "plugin/dnsbl"]
+	path = plugin/dnsbl
+	url = https://github.com/habari-extras/dnsbl.git
