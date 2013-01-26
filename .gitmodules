@@ -823,3 +823,6 @@
 [submodule "theme/blossom"]
 	path = theme/blossom
 	url = https://github.com/habari-extras/blossom.git
+[submodule "theme/contrast"]
+	path = theme/contrast
+	url = https://github.com/habari-extras/contrast.git
