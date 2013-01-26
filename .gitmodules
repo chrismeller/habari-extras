@@ -541,3 +541,6 @@
 [submodule "plugin/shelves"]
 	path = plugin/shelves
 	url = https://github.com/habari-extras/shelves.git
+[submodule "plugin/silencer"]
+	path = plugin/silencer
+	url = https://github.com/habari-extras/silencer.git
