@@ -46,3 +46,6 @@
 [submodule "broken/cpg"]
 	path = broken/cpg
 	url = https://github.com/habari-extras/cpg.git
+[submodule "plugin/creditdue"]
+	path = plugin/creditdue
+	url = https://github.com/habari-extras/creditdue.git
