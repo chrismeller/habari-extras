@@ -1,0 +1,1 @@
+A plugin for managing and displaying photos.

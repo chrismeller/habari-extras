@@ -43,3 +43,6 @@
 [submodule "plugin/commonblocks"]
 	path = plugin/commonblocks
 	url = https://github.com/habari-extras/commonblocks.git
+[submodule "broken/cpg"]
+	path = broken/cpg
+	url = https://github.com/habari-extras/cpg.git
