@@ -1,0 +1,1 @@
+Allows you to use an SMTP server to send mail through Habari.

@@ -310,3 +310,6 @@
 [submodule "plugin/magictags"]
 	path = plugin/magictags
 	url = https://github.com/habari-extras/magictags.git
+[submodule "plugin/mail_smtp"]
+	path = plugin/mail_smtp
+	url = https://github.com/habari-extras/mail_smtp.git
