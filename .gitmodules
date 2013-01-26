@@ -124,3 +124,6 @@
 [submodule "plugin/feedlist"]
 	path = plugin/feedlist
 	url = https://github.com/habari-extras/feedlist.git
+[submodule "plugin/fileman"]
+	path = plugin/fileman
+	url = https://github.com/habari-extras/fileman.git
