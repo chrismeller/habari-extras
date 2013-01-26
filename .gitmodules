@@ -526,3 +526,6 @@
 [submodule "plugin/s9yimport"]
 	path = plugin/s9yimport
 	url = https://github.com/habari-extras/s9yimport.git
+[submodule "plugin/scratchpad"]
+	path = plugin/scratchpad
+	url = https://github.com/habari-extras/scratchpad.git

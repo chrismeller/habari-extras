@@ -1,0 +1,1 @@
+Provides an easy way to store links and quotes for use in your posts.
