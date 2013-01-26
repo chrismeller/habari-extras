@@ -712,3 +712,6 @@
 [submodule "plugin/woopra"]
 	path = plugin/woopra
 	url = https://github.com/habari-extras/woopra.git
+[submodule "plugin/xenophobe"]
+	path = plugin/xenophobe
+	url = https://github.com/habari-extras/xenophobe.git
