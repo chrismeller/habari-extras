@@ -130,3 +130,6 @@
 [submodule "plugin/fireeagle"]
 	path = plugin/fireeagle
 	url = https://github.com/habari-extras/fireeagle.git
+[submodule "plugin/flickrfeed"]
+	path = plugin/flickrfeed
+	url = https://github.com/habari-extras/flickrfeed.git
