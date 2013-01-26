@@ -283,3 +283,6 @@
 [submodule "plugin/linkblog"]
 	path = plugin/linkblog
 	url = https://github.com/habari-extras/linkblog.git
+[submodule "plugin/linkoid"]
+	path = plugin/linkoid
+	url = https://github.com/habari-extras/linkoid.git

@@ -1,0 +1,1 @@
+Displays posts that are tagged with a specific tag in a different place using a separate template
