@@ -1,0 +1,1 @@
+Adds the <a href="http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/">prettyPhoto</a> jQuery plugin to the template output.

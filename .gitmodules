@@ -460,3 +460,6 @@
 [submodule "plugin/prettify"]
 	path = plugin/prettify
 	url = https://github.com/habari-extras/prettify.git
+[submodule "plugin/prettyphoto"]
+	path = plugin/prettyphoto
+	url = https://github.com/habari-extras/prettyphoto.git
