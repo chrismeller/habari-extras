@@ -1,0 +1,1 @@
+Runs htmlspecialchars() on any &lt;code&gt; blocks in your post.

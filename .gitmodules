@@ -25,3 +25,6 @@
 [submodule "plugin/clickheat"]
 	path = plugin/clickheat
 	url = https://github.com/habari-extras/clickheat.git
+[submodule "plugin/code_escape"]
+	path = plugin/code_escape
+	url = https://github.com/habari-extras/code_escape.git
