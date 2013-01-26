@@ -1,0 +1,1 @@
+An archives plugin which mimics ‘Live Archives’ on WordPress. When JavaScript is not available, it will graceful degrade to a ‘Clean Archives’.

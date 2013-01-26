@@ -1,0 +1,3 @@
+[submodule "plugin/breezyarchives"]
+	path = plugin/breezyarchives
+	url = https://github.com/habari-extras/breezyarchives.git
