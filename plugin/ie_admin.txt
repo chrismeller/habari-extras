@@ -1,0 +1,1 @@
+Adds the <a href="http://code.google.com/p/ie7-js/">ie7-js</a> stylesheet to the Habari Admin.

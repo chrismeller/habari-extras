@@ -223,3 +223,6 @@
 [submodule "plugin/htmleverywhere"]
 	path = plugin/htmleverywhere
 	url = https://github.com/habari-extras/htmleverywhere.git
+[submodule "plugin/ie_admin"]
+	path = plugin/ie_admin
+	url = https://github.com/habari-extras/ie_admin.git
