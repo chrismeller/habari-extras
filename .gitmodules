@@ -691,3 +691,6 @@
 [submodule "plugin/unbuttonadmin"]
 	path = plugin/unbuttonadmin
 	url = https://github.com/habari-extras/unbuttonadmin.git
+[submodule "plugin/upx"]
+	path = plugin/upx
+	url = https://github.com/habari-extras/upx.git

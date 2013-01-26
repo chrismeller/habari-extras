@@ -1,0 +1,1 @@
+Exposes user profile information via an XML entry point
