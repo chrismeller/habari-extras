@@ -142,3 +142,6 @@
 [submodule "plugin/footnotes"]
 	path = plugin/footnotes
 	url = https://github.com/habari-extras/footnotes.git
+[submodule "plugin/freeplace"]
+	path = plugin/freeplace
+	url = https://github.com/habari-extras/freeplace.git
