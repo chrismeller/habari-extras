@@ -109,3 +109,6 @@
 [submodule "plugin/export"]
 	path = plugin/export
 	url = https://github.com/habari-extras/export.git
+[submodule "plugin/exportsnapshot"]
+	path = plugin/exportsnapshot
+	url = https://github.com/habari-extras/exportsnapshot.git
