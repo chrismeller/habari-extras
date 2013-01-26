@@ -688,3 +688,6 @@
 [submodule "plugin/typogrify"]
 	path = plugin/typogrify
 	url = https://github.com/habari-extras/typogrify.git
+[submodule "plugin/unbuttonadmin"]
+	path = plugin/unbuttonadmin
+	url = https://github.com/habari-extras/unbuttonadmin.git

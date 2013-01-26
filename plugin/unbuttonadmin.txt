@@ -1,0 +1,1 @@
+Reverts the ugly admin buttons to the default OS widgets
