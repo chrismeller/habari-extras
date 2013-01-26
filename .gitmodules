@@ -742,3 +742,6 @@
 [submodule "plugin/FreeStyle"]
 	path = plugin/FreeStyle
 	url = https://github.com/habari-extras/FreeStyle.git
+[submodule "plugin/FreeStyleAdmin"]
+	path = plugin/FreeStyleAdmin
+	url = https://github.com/habari-extras/FreeStyleAdmin.git

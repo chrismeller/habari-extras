@@ -1,0 +1,1 @@
+Allows you to load arbitrary CSS files into the admin pages.
