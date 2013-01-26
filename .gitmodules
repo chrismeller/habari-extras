@@ -424,3 +424,6 @@
 [submodule "plugin/pluginsubmenu"]
 	path = plugin/pluginsubmenu
 	url = https://github.com/habari-extras/pluginsubmenu.git
+[submodule "plugin/podcast"]
+	path = plugin/podcast
+	url = https://github.com/habari-extras/podcast.git
