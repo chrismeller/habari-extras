@@ -931,3 +931,6 @@
 [submodule "plugin/habaribox"]
 	path = plugin/habaribox
 	url = https://github.com/habari-extras/habaribox.git
+[submodule "plugin/featuredarticles"]
+	path = plugin/featuredarticles
+	url = https://github.com/habari-extras/featuredarticles.git
