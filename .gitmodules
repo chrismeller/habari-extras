@@ -937,3 +937,6 @@
 [submodule "theme/Portfolio"]
 	path = theme/Portfolio
 	url = https://github.com/habari-extras/Portfolio.git
+[submodule "theme/scientist"]
+	path = theme/scientist
+	url = https://github.com/habari-extras/scientist.git
