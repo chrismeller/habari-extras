@@ -622,3 +622,6 @@
 [submodule "plugin/syntaxhighlighter"]
 	path = plugin/syntaxhighlighter
 	url = https://github.com/habari-extras/syntaxhighlighter.git
+[submodule "plugin/tabasamu"]
+	path = plugin/tabasamu
+	url = https://github.com/habari-extras/tabasamu.git
