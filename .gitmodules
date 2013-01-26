@@ -745,3 +745,6 @@
 [submodule "plugin/FreeStyleAdmin"]
 	path = plugin/FreeStyleAdmin
 	url = https://github.com/habari-extras/FreeStyleAdmin.git
+[submodule "broken/FreshSurf"]
+	path = broken/FreshSurf
+	url = https://github.com/habari-extras/FreshSurf.git
