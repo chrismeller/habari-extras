@@ -664,3 +664,6 @@
 [submodule "plugin/tweetsuite"]
 	path = plugin/tweetsuite
 	url = https://github.com/habari-extras/tweetsuite.git
+[submodule "plugin/twiple_tweetback"]
+	path = plugin/twiple_tweetback
+	url = https://github.com/habari-extras/twiple_tweetback.git
