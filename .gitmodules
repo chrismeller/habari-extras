@@ -553,3 +553,6 @@
 [submodule "plugin/simplecategories"]
 	path = plugin/simplecategories
 	url = https://github.com/habari-extras/simplecategories.git
+[submodule "plugin/simplegallery"]
+	path = plugin/simplegallery
+	url = https://github.com/habari-extras/simplegallery.git
