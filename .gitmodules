@@ -724,3 +724,6 @@
 [submodule "plugin/youtubesilo"]
 	path = plugin/youtubesilo
 	url = https://github.com/habari-extras/youtubesilo.git
+[submodule "plugin/yuiwysiwyg"]
+	path = plugin/yuiwysiwyg
+	url = https://github.com/habari-extras/yuiwysiwyg.git
