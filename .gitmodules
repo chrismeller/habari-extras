@@ -916,3 +916,6 @@
 [submodule "theme/k2"]
 	path = theme/k2
 	url = https://github.com/habari-extras/k2.git
+[submodule "plugin/membership"]
+	path = plugin/membership
+	url = https://github.com/habari-extras/membership.git
