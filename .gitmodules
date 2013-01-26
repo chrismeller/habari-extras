@@ -583,3 +583,6 @@
 [submodule "plugin/spamcrondelete"]
 	path = plugin/spamcrondelete
 	url = https://github.com/habari-extras/spamcrondelete.git
+[submodule "plugin/spamhoneypot"]
+	path = plugin/spamhoneypot
+	url = https://github.com/habari-extras/spamhoneypot.git

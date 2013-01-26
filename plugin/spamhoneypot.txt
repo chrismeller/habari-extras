@@ -1,0 +1,1 @@
+Entraps spammers with a honeypot comment field.
