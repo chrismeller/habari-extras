@@ -127,3 +127,6 @@
 [submodule "plugin/fileman"]
 	path = plugin/fileman
 	url = https://github.com/habari-extras/fileman.git
+[submodule "plugin/fireeagle"]
+	path = plugin/fireeagle
+	url = https://github.com/habari-extras/fireeagle.git
