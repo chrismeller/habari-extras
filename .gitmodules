@@ -547,3 +547,6 @@
 [submodule "plugin/simpleblacklist"]
 	path = plugin/simpleblacklist
 	url = https://github.com/habari-extras/simpleblacklist.git
+[submodule "plugin/simpleblock"]
+	path = plugin/simpleblock
+	url = https://github.com/habari-extras/simpleblock.git
