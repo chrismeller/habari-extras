@@ -205,3 +205,6 @@
 [submodule "plugin/hadminstrip"]
 	path = plugin/hadminstrip
 	url = https://github.com/habari-extras/hadminstrip.git
+[submodule "plugin/hconsole"]
+	path = plugin/hconsole
+	url = https://github.com/habari-extras/hconsole.git
