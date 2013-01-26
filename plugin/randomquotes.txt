@@ -1,0 +1,1 @@
+Outputs a random quote from XML files.
