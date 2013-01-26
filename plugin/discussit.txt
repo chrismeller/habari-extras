@@ -1,0 +1,1 @@
+Enables discussion and threading features for comments.

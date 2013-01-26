@@ -79,3 +79,6 @@
 [submodule "broken/diigosilo"]
 	path = broken/diigosilo
 	url = https://github.com/habari-extras/diigosilo.git
+[submodule "plugin/discussit"]
+	path = plugin/discussit
+	url = https://github.com/habari-extras/discussit.git
