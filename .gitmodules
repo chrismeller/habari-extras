@@ -646,3 +646,6 @@
 [submodule "plugin/themeswitcher"]
 	path = plugin/themeswitcher
 	url = https://github.com/habari-extras/themeswitcher.git
+[submodule "plugin/thickbox"]
+	path = plugin/thickbox
+	url = https://github.com/habari-extras/thickbox.git
