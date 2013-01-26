@@ -451,3 +451,6 @@
 [submodule "plugin/postwordcount"]
 	path = plugin/postwordcount
 	url = https://github.com/habari-extras/postwordcount.git
+[submodule "plugin/preapproved"]
+	path = plugin/preapproved
+	url = https://github.com/habari-extras/preapproved.git
