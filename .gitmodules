@@ -619,3 +619,6 @@
 [submodule "plugin/supertypes"]
 	path = plugin/supertypes
 	url = https://github.com/habari-extras/supertypes.git
+[submodule "plugin/syntaxhighlighter"]
+	path = plugin/syntaxhighlighter
+	url = https://github.com/habari-extras/syntaxhighlighter.git
