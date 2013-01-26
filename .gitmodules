@@ -841,3 +841,6 @@
 [submodule "theme/habarism"]
 	path = theme/habarism
 	url = https://github.com/habari-extras/habarism.git
+[submodule "theme/hemingway"]
+	path = theme/hemingway
+	url = https://github.com/habari-extras/hemingway.git

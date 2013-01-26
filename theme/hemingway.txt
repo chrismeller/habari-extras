@@ -1,0 +1,1 @@
+This is a port of the popular <a href="http://warpspire.com/hemingway">Hemingway</a> theme by <a href="http://warpspire.com">Kyle Neath</a>, originally ported to Habari by <a href="http://github.com/stan/habari-themes/tree/master">Stanislas Mazurek</a>.
