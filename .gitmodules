@@ -793,3 +793,6 @@
 [submodule "plugin/RelatedPosts"]
 	path = plugin/RelatedPosts
 	url = https://github.com/habari-extras/RelatedPosts.git
+[submodule "plugin/abbrev"]
+	path = plugin/abbrev
+	url = https://github.com/habari-extras/abbrev.git
