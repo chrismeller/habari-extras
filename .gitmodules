@@ -136,3 +136,6 @@
 [submodule "plugin/fluffytag"]
 	path = plugin/fluffytag
 	url = https://github.com/habari-extras/fluffytag.git
+[submodule "plugin/fontdeck"]
+	path = plugin/fontdeck
+	url = https://github.com/habari-extras/fontdeck.git

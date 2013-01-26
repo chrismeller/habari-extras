@@ -1,0 +1,1 @@
+Embeds <a href="http://www.fontdeck.com" title="Fontdeck">Fontdeck</a> typefaces in headers without needing any theme modifications.
