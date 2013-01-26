@@ -139,3 +139,6 @@
 [submodule "plugin/fontdeck"]
 	path = plugin/fontdeck
 	url = https://github.com/habari-extras/fontdeck.git
+[submodule "plugin/footnotes"]
+	path = plugin/footnotes
+	url = https://github.com/habari-extras/footnotes.git
