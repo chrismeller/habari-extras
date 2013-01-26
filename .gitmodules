@@ -397,3 +397,6 @@
 [submodule "broken/photoblog"]
 	path = broken/photoblog
 	url = https://github.com/habari-extras/photoblog.git
+[submodule "plugin/photology"]
+	path = plugin/photology
+	url = https://github.com/habari-extras/photology.git
