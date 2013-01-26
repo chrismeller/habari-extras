@@ -796,3 +796,6 @@
 [submodule "plugin/abbrev"]
 	path = plugin/abbrev
 	url = https://github.com/habari-extras/abbrev.git
+[submodule "plugin/atomicon"]
+	path = plugin/atomicon
+	url = https://github.com/habari-extras/atomicon.git

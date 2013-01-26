@@ -1,0 +1,1 @@
+Add an &lt;icon&gt; element to the Atom feed.
