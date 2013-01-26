@@ -88,3 +88,6 @@
 [submodule "plugin/dnsbl"]
 	path = plugin/dnsbl
 	url = https://github.com/habari-extras/dnsbl.git
+[submodule "plugin/download-plugin"]
+	path = plugin/download-plugin
+	url = https://github.com/habari-extras/download-plugin.git
