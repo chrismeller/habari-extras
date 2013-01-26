@@ -220,3 +220,6 @@
 [submodule "plugin/html5shiv"]
 	path = plugin/html5shiv
 	url = https://github.com/habari-extras/html5shiv.git
+[submodule "plugin/htmleverywhere"]
+	path = plugin/htmleverywhere
+	url = https://github.com/habari-extras/htmleverywhere.git

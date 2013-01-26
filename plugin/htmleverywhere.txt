@@ -1,0 +1,3 @@
+
+		<p>Insert HTML code directly in your theme header,sidebar and footer</p>
+	
