@@ -1,0 +1,1 @@
+Prevents DiggBar from framing your site

@@ -73,3 +73,6 @@
 [submodule "plugin/deliciousfeed"]
 	path = plugin/deliciousfeed
 	url = https://github.com/habari-extras/deliciousfeed.git
+[submodule "plugin/diggbarblocker"]
+	path = plugin/diggbarblocker
+	url = https://github.com/habari-extras/diggbarblocker.git
