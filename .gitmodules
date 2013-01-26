@@ -607,3 +607,6 @@
 [submodule "plugin/styleswitcher"]
 	path = plugin/styleswitcher
 	url = https://github.com/habari-extras/styleswitcher.git
+[submodule "plugin/subpages"]
+	path = plugin/subpages
+	url = https://github.com/habari-extras/subpages.git

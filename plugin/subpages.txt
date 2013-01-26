@@ -1,0 +1,1 @@
+Lets you define parent pages, so you can create an arbitrary page hierarchy.
