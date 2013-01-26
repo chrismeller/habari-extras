@@ -808,3 +808,6 @@
 [submodule "plugin/bloggerimport"]
 	path = plugin/bloggerimport
 	url = https://github.com/habari-extras/bloggerimport.git
+[submodule "theme/208"]
+	path = theme/208
+	url = https://github.com/habari-extras/208.git
