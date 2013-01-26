@@ -367,3 +367,6 @@
 [submodule "plugin/optionsmanager"]
 	path = plugin/optionsmanager
 	url = https://github.com/habari-extras/optionsmanager.git
+[submodule "plugin/page_dropdown"]
+	path = plugin/page_dropdown
+	url = https://github.com/habari-extras/page_dropdown.git
