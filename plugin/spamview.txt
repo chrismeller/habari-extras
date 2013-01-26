@@ -1,0 +1,1 @@
+Provides a dashboard module to quickly see new spam, and a button to delete it.

@@ -586,3 +586,6 @@
 [submodule "plugin/spamhoneypot"]
 	path = plugin/spamhoneypot
 	url = https://github.com/habari-extras/spamhoneypot.git
+[submodule "plugin/spamview"]
+	path = plugin/spamview
+	url = https://github.com/habari-extras/spamview.git
