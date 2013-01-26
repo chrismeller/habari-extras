@@ -769,3 +769,6 @@
 [submodule "plugin/amazon"]
 	path = plugin/amazon
 	url = https://github.com/habari-extras/amazon.git
+[submodule "plugin/asciify"]
+	path = plugin/asciify
+	url = https://github.com/habari-extras/asciify.git
