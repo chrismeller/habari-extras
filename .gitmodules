@@ -889,3 +889,6 @@
 [submodule "theme/wings"]
 	path = theme/wings
 	url = https://github.com/habari-extras/wings.git
+[submodule "plugin/browserupdate"]
+	path = plugin/browserupdate
+	url = https://github.com/habari-extras/browserupdate.git
