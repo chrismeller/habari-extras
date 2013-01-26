@@ -184,3 +184,6 @@
 [submodule "plugin/googlemaps"]
 	path = plugin/googlemaps
 	url = https://github.com/habari-extras/googlemaps.git
+[submodule "plugin/gravatar"]
+	path = plugin/gravatar
+	url = https://github.com/habari-extras/gravatar.git
