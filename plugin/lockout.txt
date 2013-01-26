@@ -1,0 +1,1 @@
+Redirect users not logged in to a login form.

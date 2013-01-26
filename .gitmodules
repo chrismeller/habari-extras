@@ -292,3 +292,6 @@
 [submodule "plugin/lockdown"]
 	path = plugin/lockdown
 	url = https://github.com/habari-extras/lockdown.git
+[submodule "plugin/lockout"]
+	path = plugin/lockout
+	url = https://github.com/habari-extras/lockout.git
