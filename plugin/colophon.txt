@@ -1,0 +1,1 @@
+Adds an About / Colophon to your blog.

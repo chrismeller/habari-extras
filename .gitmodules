@@ -28,3 +28,6 @@
 [submodule "plugin/code_escape"]
 	path = plugin/code_escape
 	url = https://github.com/habari-extras/code_escape.git
+[submodule "plugin/colophon"]
+	path = plugin/colophon
+	url = https://github.com/habari-extras/colophon.git
