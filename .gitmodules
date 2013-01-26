@@ -649,3 +649,6 @@
 [submodule "plugin/thickbox"]
 	path = plugin/thickbox
 	url = https://github.com/habari-extras/thickbox.git
+[submodule "plugin/threaded_comment"]
+	path = plugin/threaded_comment
+	url = https://github.com/habari-extras/threaded_comment.git
