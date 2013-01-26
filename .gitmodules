@@ -709,3 +709,6 @@
 [submodule "plugin/vimeosilo"]
 	path = plugin/vimeosilo
 	url = https://github.com/habari-extras/vimeosilo.git
+[submodule "plugin/woopra"]
+	path = plugin/woopra
+	url = https://github.com/habari-extras/woopra.git
