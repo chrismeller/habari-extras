@@ -100,3 +100,6 @@
 [submodule "plugin/drupalimport"]
 	path = plugin/drupalimport
 	url = https://github.com/habari-extras/drupalimport.git
+[submodule "plugin/dynamic_style_selector"]
+	path = plugin/dynamic_style_selector
+	url = https://github.com/habari-extras/dynamic_style_selector.git

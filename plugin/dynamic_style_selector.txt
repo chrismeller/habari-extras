@@ -1,0 +1,1 @@
+Allow the selection of styles from a post edit screen.
