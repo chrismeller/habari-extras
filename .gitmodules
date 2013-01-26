@@ -520,3 +520,6 @@
 [submodule "plugin/rss"]
 	path = plugin/rss
 	url = https://github.com/habari-extras/rss.git
+[submodule "plugin/rssblocks"]
+	path = plugin/rssblocks
+	url = https://github.com/habari-extras/rssblocks.git
