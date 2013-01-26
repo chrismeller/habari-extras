@@ -421,3 +421,6 @@
 [submodule "plugin/addon_catalog"]
 	path = plugin/addon_catalog
 	url = https://github.com/habari-extras/addon_catalog.git
+[submodule "plugin/pluginsubmenu"]
+	path = plugin/pluginsubmenu
+	url = https://github.com/habari-extras/pluginsubmenu.git
