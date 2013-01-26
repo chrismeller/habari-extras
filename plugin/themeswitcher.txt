@@ -1,0 +1,1 @@
+Allows visitors to change the theme of the site.

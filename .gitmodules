@@ -643,3 +643,6 @@
 [submodule "plugin/texttransport"]
 	path = plugin/texttransport
 	url = https://github.com/habari-extras/texttransport.git
+[submodule "plugin/themeswitcher"]
+	path = plugin/themeswitcher
+	url = https://github.com/habari-extras/themeswitcher.git
