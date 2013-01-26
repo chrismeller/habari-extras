@@ -1,0 +1,1 @@
+Helpify displays customizable help on the publish page.

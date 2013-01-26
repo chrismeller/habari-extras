@@ -208,3 +208,6 @@
 [submodule "plugin/hconsole"]
 	path = plugin/hconsole
 	url = https://github.com/habari-extras/hconsole.git
+[submodule "plugin/helpify"]
+	path = plugin/helpify
+	url = https://github.com/habari-extras/helpify.git
