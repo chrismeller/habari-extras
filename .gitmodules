@@ -340,3 +340,6 @@
 [submodule "plugin/monthly_archives"]
 	path = plugin/monthly_archives
 	url = https://github.com/habari-extras/monthly_archives.git
+[submodule "plugin/mpango"]
+	path = plugin/mpango
+	url = https://github.com/habari-extras/mpango.git

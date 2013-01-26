@@ -1,0 +1,1 @@
+Mpango allows the display of project pages for development projects, such as plugins and themes.
