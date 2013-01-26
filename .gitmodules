@@ -736,3 +736,6 @@
 [submodule "plugin/beacontest"]
 	path = plugin/beacontest
 	url = https://github.com/habari-extras/beacontest.git
+[submodule "plugin/bitly"]
+	path = plugin/bitly
+	url = https://github.com/habari-extras/bitly.git
