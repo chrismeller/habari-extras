@@ -838,3 +838,6 @@
 [submodule "theme/gray"]
 	path = theme/gray
 	url = https://github.com/habari-extras/gray.git
+[submodule "theme/habarism"]
+	path = theme/habarism
+	url = https://github.com/habari-extras/habarism.git
