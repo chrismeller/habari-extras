@@ -481,3 +481,6 @@
 [submodule "plugin/pullquotes"]
 	path = plugin/pullquotes
 	url = https://github.com/habari-extras/pullquotes.git
+[submodule "plugin/quoticious"]
+	path = plugin/quoticious
+	url = https://github.com/habari-extras/quoticious.git
