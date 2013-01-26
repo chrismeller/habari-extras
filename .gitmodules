@@ -574,3 +574,6 @@
 [submodule "broken/snippet"]
 	path = broken/snippet
 	url = https://github.com/habari-extras/snippet.git
+[submodule "plugin/socialink"]
+	path = plugin/socialink
+	url = https://github.com/habari-extras/socialink.git
