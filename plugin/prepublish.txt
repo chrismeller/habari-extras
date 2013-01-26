@@ -1,0 +1,1 @@
+Publish all "published" posts, regardless of pubdate.

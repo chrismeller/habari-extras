@@ -454,3 +454,6 @@
 [submodule "plugin/preapproved"]
 	path = plugin/preapproved
 	url = https://github.com/habari-extras/preapproved.git
+[submodule "plugin/prepublish"]
+	path = plugin/prepublish
+	url = https://github.com/habari-extras/prepublish.git
