@@ -637,3 +637,6 @@
 [submodule "plugin/termmenus"]
 	path = plugin/termmenus
 	url = https://github.com/habari-extras/termmenus.git
+[submodule "plugin/textlinkads"]
+	path = plugin/textlinkads
+	url = https://github.com/habari-extras/textlinkads.git
