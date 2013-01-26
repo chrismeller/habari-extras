@@ -589,3 +589,6 @@
 [submodule "plugin/spamview"]
 	path = plugin/spamview
 	url = https://github.com/habari-extras/spamview.git
+[submodule "plugin/spoilers"]
+	path = plugin/spoilers
+	url = https://github.com/habari-extras/spoilers.git
