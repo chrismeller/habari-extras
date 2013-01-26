@@ -1,0 +1,1 @@
+Create pull quotes from existing content.
