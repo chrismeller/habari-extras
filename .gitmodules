@@ -379,3 +379,6 @@
 [submodule "plugin/pagemenu"]
 	path = plugin/pagemenu
 	url = https://github.com/habari-extras/pagemenu.git
+[submodule "broken/paginator"]
+	path = broken/paginator
+	url = https://github.com/habari-extras/paginator.git

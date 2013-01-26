@@ -1,0 +1,1 @@
+Decide how the pagination, either as a `unordered list` or as a `span`.
