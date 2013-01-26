@@ -1,0 +1,1 @@
+Redirects all requests to a maintenance mode page. The login page always remains available. Logged in users can see any page on the site even when in maintenance mode.

@@ -313,3 +313,6 @@
 [submodule "plugin/mail_smtp"]
 	path = plugin/mail_smtp
 	url = https://github.com/habari-extras/mail_smtp.git
+[submodule "plugin/maintenance_mode"]
+	path = plugin/maintenance_mode
+	url = https://github.com/habari-extras/maintenance_mode.git
