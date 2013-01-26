@@ -850,3 +850,6 @@
 [submodule "theme/hmallow_mobile"]
 	path = theme/hmallow_mobile
 	url = https://github.com/habari-extras/hmallow_mobile.git
+[submodule "theme/lace"]
+	path = theme/lace
+	url = https://github.com/habari-extras/lace.git
