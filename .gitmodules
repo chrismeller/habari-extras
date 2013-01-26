@@ -415,3 +415,6 @@
 [submodule "plugin/piwik"]
 	path = plugin/piwik
 	url = https://github.com/habari-extras/piwik.git
+[submodule "plugin/plaintext"]
+	path = plugin/plaintext
+	url = https://github.com/habari-extras/plaintext.git
