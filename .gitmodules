@@ -928,3 +928,6 @@
 [submodule "plugin/hisa"]
 	path = plugin/hisa
 	url = https://github.com/habari-extras/hisa.git
+[submodule "plugin/habaribox"]
+	path = plugin/habaribox
+	url = https://github.com/habari-extras/habaribox.git
