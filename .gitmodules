@@ -658,3 +658,6 @@
 [submodule "plugin/tracdashmodule"]
 	path = plugin/tracdashmodule
 	url = https://github.com/habari-extras/tracdashmodule.git
+[submodule "plugin/tracfeed"]
+	path = plugin/tracfeed
+	url = https://github.com/habari-extras/tracfeed.git
