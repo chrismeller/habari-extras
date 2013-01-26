@@ -118,3 +118,6 @@
 [submodule "plugin/extra_content"]
 	path = plugin/extra_content
 	url = https://github.com/habari-extras/extra_content.git
+[submodule "plugin/feedburner"]
+	path = plugin/feedburner
+	url = https://github.com/habari-extras/feedburner.git
