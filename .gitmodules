@@ -31,3 +31,6 @@
 [submodule "plugin/colophon"]
 	path = plugin/colophon
 	url = https://github.com/habari-extras/colophon.git
+[submodule "plugin/comment-ident"]
+	path = plugin/comment-ident
+	url = https://github.com/habari-extras/comment-ident.git
