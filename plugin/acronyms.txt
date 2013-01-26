@@ -1,0 +1,1 @@
+Automagically wraps an &lt;abbr&gt; tag around acronyms it recognizes in your post content.

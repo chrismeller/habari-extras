@@ -727,3 +727,6 @@
 [submodule "plugin/yuiwysiwyg"]
 	path = plugin/yuiwysiwyg
 	url = https://github.com/habari-extras/yuiwysiwyg.git
+[submodule "plugin/acronyms"]
+	path = plugin/acronyms
+	url = https://github.com/habari-extras/acronyms.git
