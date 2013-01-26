@@ -1,0 +1,1 @@
+Posts that are updated or receive (approved) comments are bumped to the first post position.

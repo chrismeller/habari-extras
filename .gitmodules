@@ -7,3 +7,6 @@
 [submodule "plugin/brightkite"]
 	path = plugin/brightkite
 	url = https://github.com/habari-extras/brightkite.git
+[submodule "plugin/bumping"]
+	path = plugin/bumping
+	url = https://github.com/habari-extras/bumping.git
