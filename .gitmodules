@@ -106,3 +106,6 @@
 [submodule "plugin/eventscontent"]
 	path = plugin/eventscontent
 	url = https://github.com/habari-extras/eventscontent.git
+[submodule "plugin/export"]
+	path = plugin/export
+	url = https://github.com/habari-extras/export.git
