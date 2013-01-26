@@ -880,3 +880,6 @@
 [submodule "theme/simplerer"]
 	path = theme/simplerer
 	url = https://github.com/habari-extras/simplerer.git
+[submodule "theme/spark"]
+	path = theme/spark
+	url = https://github.com/habari-extras/spark.git

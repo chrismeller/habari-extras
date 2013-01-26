@@ -1,0 +1,1 @@
+Based on Milk with some css3 magic added. Not (yet) tested for ie so use at your own risk. It probably won't degrade gracefully in older browsers. For bugs and defects <a href="https://trac.habariproject.org/habari-extras/newticket">submit a ticket</a> to the bug tracker. 
