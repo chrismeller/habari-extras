@@ -1,0 +1,1 @@
+Adds a contact form to any page or post.

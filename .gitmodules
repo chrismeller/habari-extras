@@ -247,3 +247,6 @@
 [submodule "plugin/jaiku"]
 	path = plugin/jaiku
 	url = https://github.com/habari-extras/jaiku.git
+[submodule "plugin/jambo"]
+	path = plugin/jambo
+	url = https://github.com/habari-extras/jambo.git
