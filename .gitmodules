@@ -502,3 +502,6 @@
 [submodule "plugin/render-type"]
 	path = plugin/render-type
 	url = https://github.com/habari-extras/render-type.git
+[submodule "plugin/reportr"]
+	path = plugin/reportr
+	url = https://github.com/habari-extras/reportr.git
