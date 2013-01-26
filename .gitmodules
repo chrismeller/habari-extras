@@ -319,3 +319,6 @@
 [submodule "plugin/markup"]
 	path = plugin/markup
 	url = https://github.com/habari-extras/markup.git
+[submodule "plugin/metaseo"]
+	path = plugin/metaseo
+	url = https://github.com/habari-extras/metaseo.git

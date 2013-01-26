@@ -1,0 +1,1 @@
+Adds search engine optimizations to the page head.
