@@ -1,0 +1,1 @@
+Allows you to set a page to show as the home page.

@@ -598,3 +598,6 @@
 [submodule "plugin/staticcache"]
 	path = plugin/staticcache
 	url = https://github.com/habari-extras/staticcache.git
+[submodule "plugin/staticfront"]
+	path = plugin/staticfront
+	url = https://github.com/habari-extras/staticfront.git
