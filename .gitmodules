@@ -61,3 +61,6 @@
 [submodule "plugin/database_optimizer"]
 	path = plugin/database_optimizer
 	url = https://github.com/habari-extras/database_optimizer.git
+[submodule "plugin/date_ninja"]
+	path = plugin/date_ninja
+	url = https://github.com/habari-extras/date_ninja.git

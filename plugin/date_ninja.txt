@@ -1,0 +1,1 @@
+Allows you to use plain language when selecting publish dates. Based on datejs.
