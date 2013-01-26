@@ -940,3 +940,6 @@
 [submodule "theme/scientist"]
 	path = theme/scientist
 	url = https://github.com/habari-extras/scientist.git
+[submodule "plugin/folder2gallery"]
+	path = plugin/folder2gallery
+	url = https://github.com/habari-extras/folder2gallery.git
