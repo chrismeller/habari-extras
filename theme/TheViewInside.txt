@@ -1,0 +1,1 @@
+Clean theme with many small configurable things. Several possibilities of adding images to posts. Integrates with galleries.

@@ -907,3 +907,6 @@
 [submodule "plugin/spreking"]
 	path = plugin/spreking
 	url = https://github.com/habari-extras/spreking.git
+[submodule "theme/TheViewInside"]
+	path = theme/TheViewInside
+	url = https://github.com/habari-extras/TheViewInside.git
