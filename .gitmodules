@@ -241,3 +241,6 @@
 [submodule "plugin/instant_search"]
 	path = plugin/instant_search
 	url = https://github.com/habari-extras/instant_search.git
+[submodule "plugin/interwiki"]
+	path = plugin/interwiki
+	url = https://github.com/habari-extras/interwiki.git

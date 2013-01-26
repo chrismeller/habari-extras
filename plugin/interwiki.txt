@@ -1,0 +1,1 @@
+Allow users to specify Interwiki links in Habari post content, which Habari will convert to real links.
