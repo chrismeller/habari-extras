@@ -400,3 +400,6 @@
 [submodule "plugin/photology"]
 	path = plugin/photology
 	url = https://github.com/habari-extras/photology.git
+[submodule "plugin/photoslide"]
+	path = plugin/photoslide
+	url = https://github.com/habari-extras/photoslide.git

@@ -1,0 +1,1 @@
+Add individual image assets as posts that can be used in a slideshow.
