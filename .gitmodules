@@ -94,3 +94,6 @@
 [submodule "plugin/draftdashmodule"]
 	path = plugin/draftdashmodule
 	url = https://github.com/habari-extras/draftdashmodule.git
+[submodule "broken/dropiosilo"]
+	path = broken/dropiosilo
+	url = https://github.com/habari-extras/dropiosilo.git
