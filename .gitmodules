@@ -466,3 +466,6 @@
 [submodule "plugin/prettypretty"]
 	path = plugin/prettypretty
 	url = https://github.com/habari-extras/prettypretty.git
+[submodule "plugin/profiler"]
+	path = plugin/profiler
+	url = https://github.com/habari-extras/profiler.git
