@@ -1,0 +1,1 @@
+Automatically close comments on posts older than a given number of days.

@@ -784,3 +784,6 @@
 [submodule "plugin/autoapprove"]
 	path = plugin/autoapprove
 	url = https://github.com/habari-extras/autoapprove.git
+[submodule "plugin/autoclose"]
+	path = plugin/autoclose
+	url = https://github.com/habari-extras/autoclose.git
