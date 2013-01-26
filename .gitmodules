@@ -826,3 +826,6 @@
 [submodule "theme/contrast"]
 	path = theme/contrast
 	url = https://github.com/habari-extras/contrast.git
+[submodule "broken/demorgan"]
+	path = broken/demorgan
+	url = https://github.com/habari-extras/demorgan.git
