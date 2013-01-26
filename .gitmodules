@@ -571,3 +571,6 @@
 [submodule "plugin/slimbox2"]
 	path = plugin/slimbox2
 	url = https://github.com/habari-extras/slimbox2.git
+[submodule "broken/snippet"]
+	path = broken/snippet
+	url = https://github.com/habari-extras/snippet.git
