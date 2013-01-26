@@ -934,3 +934,6 @@
 [submodule "plugin/featuredarticles"]
 	path = plugin/featuredarticles
 	url = https://github.com/habari-extras/featuredarticles.git
+[submodule "theme/Portfolio"]
+	path = theme/Portfolio
+	url = https://github.com/habari-extras/Portfolio.git
