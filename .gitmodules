@@ -163,3 +163,6 @@
 [submodule "plugin/geotags"]
 	path = plugin/geotags
 	url = https://github.com/habari-extras/geotags.git
+[submodule "plugin/getclicky"]
+	path = plugin/getclicky
+	url = https://github.com/habari-extras/getclicky.git

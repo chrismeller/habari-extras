@@ -1,0 +1,1 @@
+Adds GetClicky analytics integration to your site.
