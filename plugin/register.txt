@@ -1,0 +1,1 @@
+Lets people register to become blog users, and be placed into a group specified by the admin.

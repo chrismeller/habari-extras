@@ -496,3 +496,6 @@
 [submodule "plugin/rateit"]
 	path = plugin/rateit
 	url = https://github.com/habari-extras/rateit.git
+[submodule "plugin/register"]
+	path = plugin/register
+	url = https://github.com/habari-extras/register.git
