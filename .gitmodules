@@ -16,3 +16,6 @@
 [submodule "plugin/chicklet"]
 	path = plugin/chicklet
 	url = https://github.com/habari-extras/chicklet.git
+[submodule "plugin/chyrpimport"]
+	path = plugin/chyrpimport
+	url = https://github.com/habari-extras/chyrpimport.git
