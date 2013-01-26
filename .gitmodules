@@ -787,3 +787,6 @@
 [submodule "plugin/autoclose"]
 	path = plugin/autoclose
 	url = https://github.com/habari-extras/autoclose.git
+[submodule "broken/autokeyword"]
+	path = broken/autokeyword
+	url = https://github.com/habari-extras/autokeyword.git
