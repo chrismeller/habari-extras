@@ -457,3 +457,6 @@
 [submodule "plugin/prepublish"]
 	path = plugin/prepublish
 	url = https://github.com/habari-extras/prepublish.git
+[submodule "plugin/prettify"]
+	path = plugin/prettify
+	url = https://github.com/habari-extras/prettify.git
