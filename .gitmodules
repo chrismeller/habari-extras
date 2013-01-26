@@ -331,3 +331,6 @@
 [submodule "plugin/minification"]
 	path = plugin/minification
 	url = https://github.com/habari-extras/minification.git
+[submodule "plugin/mobiletheme"]
+	path = plugin/mobiletheme
+	url = https://github.com/habari-extras/mobiletheme.git

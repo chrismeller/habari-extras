@@ -1,0 +1,1 @@
+Allows the selection of a different theme to display for mobile browsers.  Includes functions to disable the theme if the visitor does not want the mobile version.
