@@ -565,3 +565,6 @@
 [submodule "plugin/sitemaintenance"]
 	path = plugin/sitemaintenance
 	url = https://github.com/habari-extras/sitemaintenance.git
+[submodule "plugin/sitemaps"]
+	path = plugin/sitemaps
+	url = https://github.com/habari-extras/sitemaps.git
