@@ -352,3 +352,6 @@
 [submodule "plugin/notify_all"]
 	path = plugin/notify_all
 	url = https://github.com/habari-extras/notify_all.git
+[submodule "plugin/ohloh_badge"]
+	path = plugin/ohloh_badge
+	url = https://github.com/habari-extras/ohloh_badge.git
