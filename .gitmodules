@@ -55,3 +55,6 @@
 [submodule "plugin/customctypes"]
 	path = plugin/customctypes
 	url = https://github.com/habari-extras/customctypes.git
+[submodule "plugin/customquery"]
+	path = plugin/customquery
+	url = https://github.com/habari-extras/customquery.git

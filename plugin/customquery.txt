@@ -1,0 +1,1 @@
+Allows you to set the number of posts to display for each page.
