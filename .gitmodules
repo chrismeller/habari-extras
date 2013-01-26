@@ -718,3 +718,6 @@
 [submodule "plugin/xmpp-notify"]
 	path = plugin/xmpp-notify
 	url = https://github.com/habari-extras/xmpp-notify.git
+[submodule "plugin/xpsf-mini"]
+	path = plugin/xpsf-mini
+	url = https://github.com/habari-extras/xpsf-mini.git
