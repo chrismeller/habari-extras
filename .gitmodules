@@ -670,3 +670,6 @@
 [submodule "plugin/twitter"]
 	path = plugin/twitter
 	url = https://github.com/habari-extras/twitter.git
+[submodule "plugin/twitter_avatar"]
+	path = plugin/twitter_avatar
+	url = https://github.com/habari-extras/twitter_avatar.git
