@@ -676,3 +676,6 @@
 [submodule "plugin/twittercomments"]
 	path = plugin/twittercomments
 	url = https://github.com/habari-extras/twittercomments.git
+[submodule "plugin/twitterlitte"]
+	path = plugin/twitterlitte
+	url = https://github.com/habari-extras/twitterlitte.git
