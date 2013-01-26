@@ -505,3 +505,6 @@
 [submodule "plugin/reportr"]
 	path = plugin/reportr
 	url = https://github.com/habari-extras/reportr.git
+[submodule "plugin/require_slug"]
+	path = plugin/require_slug
+	url = https://github.com/habari-extras/require_slug.git
