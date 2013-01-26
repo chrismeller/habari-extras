@@ -1,0 +1,1 @@
+A plugin that adds a <a href="http://code.google.com/apis/recaptcha" target="_blank">reCAPTCHA</a> to comment forms for users that are not logged in and do not have a previously approved comment.

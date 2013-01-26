@@ -892,3 +892,6 @@
 [submodule "plugin/browserupdate"]
 	path = plugin/browserupdate
 	url = https://github.com/habari-extras/browserupdate.git
+[submodule "plugin/recaptcha"]
+	path = plugin/recaptcha
+	url = https://github.com/habari-extras/recaptcha.git
