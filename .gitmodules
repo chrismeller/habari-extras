@@ -523,3 +523,6 @@
 [submodule "plugin/rssblocks"]
 	path = plugin/rssblocks
 	url = https://github.com/habari-extras/rssblocks.git
+[submodule "plugin/s9yimport"]
+	path = plugin/s9yimport
+	url = https://github.com/habari-extras/s9yimport.git
