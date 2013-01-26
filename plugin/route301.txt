@@ -1,0 +1,1 @@
+Redirect other permalink formats to the proper post URL.

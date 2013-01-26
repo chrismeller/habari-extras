@@ -514,3 +514,6 @@
 [submodule "plugin/rewriter"]
 	path = plugin/rewriter
 	url = https://github.com/habari-extras/rewriter.git
+[submodule "plugin/route301"]
+	path = plugin/route301
+	url = https://github.com/habari-extras/route301.git
