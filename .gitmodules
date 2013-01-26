@@ -763,3 +763,6 @@
 [submodule "broken/admintheme"]
 	path = broken/admintheme
 	url = https://github.com/habari-extras/admintheme.git
+[submodule "plugin/aliencontact"]
+	path = plugin/aliencontact
+	url = https://github.com/habari-extras/aliencontact.git
