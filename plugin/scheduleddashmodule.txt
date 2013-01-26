@@ -1,0 +1,1 @@
+Provides a dashboard modules showing scheduled posts.

@@ -949,3 +949,6 @@
 [submodule "plugin/viddlersilo"]
 	path = plugin/viddlersilo
 	url = https://github.com/habari-extras/viddlersilo.git
+[submodule "plugin/scheduleddashmodule"]
+	path = plugin/scheduleddashmodule
+	url = https://github.com/habari-extras/scheduleddashmodule.git
