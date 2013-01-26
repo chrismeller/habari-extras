@@ -817,3 +817,6 @@
 [submodule "theme/arctic_ice"]
 	path = theme/arctic_ice
 	url = https://github.com/habari-extras/arctic_ice.git
+[submodule "theme/binadamu"]
+	path = theme/binadamu
+	url = https://github.com/habari-extras/binadamu.git
