@@ -430,3 +430,6 @@
 [submodule "plugin/polls"]
 	path = plugin/polls
 	url = https://github.com/habari-extras/polls.git
+[submodule "plugin/popular_posts"]
+	path = plugin/popular_posts
+	url = https://github.com/habari-extras/popular_posts.git
