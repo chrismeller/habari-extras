@@ -1,0 +1,1 @@
+Anything defined here that exists in a comment (author name, URL, IP, body) will cause that comment to be silently discarded or marked as spam (as chosen in the options).

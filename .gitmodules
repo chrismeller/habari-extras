@@ -544,3 +544,6 @@
 [submodule "plugin/silencer"]
 	path = plugin/silencer
 	url = https://github.com/habari-extras/silencer.git
+[submodule "plugin/simpleblacklist"]
+	path = plugin/simpleblacklist
+	url = https://github.com/habari-extras/simpleblacklist.git
