@@ -559,3 +559,6 @@
 [submodule "plugin/simpletaglist"]
 	path = plugin/simpletaglist
 	url = https://github.com/habari-extras/simpletaglist.git
+[submodule "plugin/simplynoted"]
+	path = plugin/simplynoted
+	url = https://github.com/habari-extras/simplynoted.git

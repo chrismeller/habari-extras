@@ -1,0 +1,1 @@
+Allows the reference of <a href="http://www.simplenoteapp.com/">Simplenote</a> on the post composition screen.
