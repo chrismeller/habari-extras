@@ -625,3 +625,6 @@
 [submodule "plugin/tabasamu"]
 	path = plugin/tabasamu
 	url = https://github.com/habari-extras/tabasamu.git
+[submodule "plugin/tagrewriter"]
+	path = plugin/tagrewriter
+	url = https://github.com/habari-extras/tagrewriter.git
