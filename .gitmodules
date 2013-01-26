@@ -280,3 +280,6 @@
 [submodule "broken/limitaccess"]
 	path = broken/limitaccess
 	url = https://github.com/habari-extras/limitaccess.git
+[submodule "plugin/linkblog"]
+	path = plugin/linkblog
+	url = https://github.com/habari-extras/linkblog.git

@@ -1,0 +1,1 @@
+Allows the publishing of link-based posts, which show up in the main entry feed.
