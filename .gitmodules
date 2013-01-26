@@ -256,3 +256,6 @@
 [submodule "plugin/jwysiwyg"]
 	path = plugin/jwysiwyg
 	url = https://github.com/habari-extras/jwysiwyg.git
+[submodule "plugin/keep_login"]
+	path = plugin/keep_login
+	url = https://github.com/habari-extras/keep_login.git

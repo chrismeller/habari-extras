@@ -1,0 +1,1 @@
+Uses ajax to keep a session logged in to the admin.
