@@ -445,3 +445,6 @@
 [submodule "plugin/postpass"]
 	path = plugin/postpass
 	url = https://github.com/habari-extras/postpass.git
+[submodule "plugin/posturl"]
+	path = plugin/posturl
+	url = https://github.com/habari-extras/posturl.git
