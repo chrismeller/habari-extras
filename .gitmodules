@@ -856,3 +856,6 @@
 [submodule "theme/milk"]
 	path = theme/milk
 	url = https://github.com/habari-extras/milk.git
+[submodule "theme/naturalpower"]
+	path = theme/naturalpower
+	url = https://github.com/habari-extras/naturalpower.git
