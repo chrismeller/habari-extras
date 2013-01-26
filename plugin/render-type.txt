@@ -1,0 +1,1 @@
+A plugin for rendering text as images.
