@@ -913,3 +913,6 @@
 [submodule "plugin/blogroll"]
 	path = plugin/blogroll
 	url = https://github.com/habari-extras/blogroll.git
+[submodule "theme/k2"]
+	path = theme/k2
+	url = https://github.com/habari-extras/k2.git
