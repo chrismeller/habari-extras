@@ -859,3 +859,6 @@
 [submodule "theme/naturalpower"]
 	path = theme/naturalpower
 	url = https://github.com/habari-extras/naturalpower.git
+[submodule "theme/null"]
+	path = theme/null
+	url = https://github.com/habari-extras/null.git
