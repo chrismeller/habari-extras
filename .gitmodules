@@ -322,3 +322,6 @@
 [submodule "plugin/metaseo"]
 	path = plugin/metaseo
 	url = https://github.com/habari-extras/metaseo.git
+[submodule "plugin/metaweblog"]
+	path = plugin/metaweblog
+	url = https://github.com/habari-extras/metaweblog.git

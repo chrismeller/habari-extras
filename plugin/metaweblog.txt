@@ -1,0 +1,1 @@
+Adds metaWeblog support to the XML-RPC server.
