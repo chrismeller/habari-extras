@@ -337,3 +337,6 @@
 [submodule "plugin/mollom"]
 	path = plugin/mollom
 	url = https://github.com/habari-extras/mollom.git
+[submodule "plugin/monthly_archives"]
+	path = plugin/monthly_archives
+	url = https://github.com/habari-extras/monthly_archives.git
