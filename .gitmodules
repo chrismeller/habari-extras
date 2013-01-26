@@ -112,3 +112,6 @@
 [submodule "plugin/exportsnapshot"]
 	path = plugin/exportsnapshot
 	url = https://github.com/habari-extras/exportsnapshot.git
+[submodule "plugin/extendedlog"]
+	path = plugin/extendedlog
+	url = https://github.com/habari-extras/extendedlog.git
