@@ -811,3 +811,6 @@
 [submodule "theme/208"]
 	path = theme/208
 	url = https://github.com/habari-extras/208.git
+[submodule "theme/aligned"]
+	path = theme/aligned
+	url = https://github.com/habari-extras/aligned.git
