@@ -487,3 +487,6 @@
 [submodule "plugin/random_posts"]
 	path = plugin/random_posts
 	url = https://github.com/habari-extras/random_posts.git
+[submodule "plugin/randompostlink"]
+	path = plugin/randompostlink
+	url = https://github.com/habari-extras/randompostlink.git

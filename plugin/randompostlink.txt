@@ -1,0 +1,1 @@
+Redirects visitors to a random post when visiting this URL: /randompost
