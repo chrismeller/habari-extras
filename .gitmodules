@@ -274,3 +274,6 @@
 [submodule "plugin/lifestream"]
 	path = plugin/lifestream
 	url = https://github.com/habari-extras/lifestream.git
+[submodule "plugin/lilliputian"]
+	path = plugin/lilliputian
+	url = https://github.com/habari-extras/lilliputian.git

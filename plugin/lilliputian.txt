@@ -1,0 +1,1 @@
+provides a pluggable URL shrinker, and an optional REST tinyurl service from your Habari blog
