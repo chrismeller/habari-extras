@@ -214,3 +214,6 @@
 [submodule "plugin/highlighter"]
 	path = plugin/highlighter
 	url = https://github.com/habari-extras/highlighter.git
+[submodule "plugin/hpm"]
+	path = plugin/hpm
+	url = https://github.com/habari-extras/hpm.git

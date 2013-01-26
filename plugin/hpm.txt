@@ -1,0 +1,1 @@
+The Habari Package Manager lets you install plugins hosted in the Habari community repository directly from your site's admin.
