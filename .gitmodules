@@ -778,3 +778,6 @@
 [submodule "plugin/audioscrobbler"]
 	path = plugin/audioscrobbler
 	url = https://github.com/habari-extras/audioscrobbler.git
+[submodule "plugin/authorurls"]
+	path = plugin/authorurls
+	url = https://github.com/habari-extras/authorurls.git
