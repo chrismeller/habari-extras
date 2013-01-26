@@ -409,3 +409,6 @@
 [submodule "plugin/picasasilo"]
 	path = plugin/picasasilo
 	url = https://github.com/habari-extras/picasasilo.git
+[submodule "plugin/pingerupdate"]
+	path = plugin/pingerupdate
+	url = https://github.com/habari-extras/pingerupdate.git

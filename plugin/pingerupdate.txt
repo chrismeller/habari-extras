@@ -1,0 +1,1 @@
+Sends pings to notification services.
