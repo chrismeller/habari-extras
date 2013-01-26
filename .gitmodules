@@ -202,3 +202,6 @@
 [submodule "plugin/habminbar"]
 	path = plugin/habminbar
 	url = https://github.com/habari-extras/habminbar.git
+[submodule "plugin/hadminstrip"]
+	path = plugin/hadminstrip
+	url = https://github.com/habari-extras/hadminstrip.git
