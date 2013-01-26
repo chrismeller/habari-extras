@@ -49,3 +49,6 @@
 [submodule "plugin/creditdue"]
 	path = plugin/creditdue
 	url = https://github.com/habari-extras/creditdue.git
+[submodule "plugin/crontabmanager"]
+	path = plugin/crontabmanager
+	url = https://github.com/habari-extras/crontabmanager.git
