@@ -751,3 +751,6 @@
 [submodule "plugin/Lipsum"]
 	path = plugin/Lipsum
 	url = https://github.com/habari-extras/Lipsum.git
+[submodule "plugin/NicEdit"]
+	path = plugin/NicEdit
+	url = https://github.com/habari-extras/NicEdit.git
