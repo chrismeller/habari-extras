@@ -1,0 +1,1 @@
+Extends Habari to allow for more advanced content types

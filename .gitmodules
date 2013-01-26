@@ -616,3 +616,6 @@
 [submodule "plugin/summary"]
 	path = plugin/summary
 	url = https://github.com/habari-extras/summary.git
+[submodule "plugin/supertypes"]
+	path = plugin/supertypes
+	url = https://github.com/habari-extras/supertypes.git
