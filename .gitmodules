@@ -103,3 +103,6 @@
 [submodule "plugin/dynamic_style_selector"]
 	path = plugin/dynamic_style_selector
 	url = https://github.com/habari-extras/dynamic_style_selector.git
+[submodule "plugin/eventscontent"]
+	path = plugin/eventscontent
+	url = https://github.com/habari-extras/eventscontent.git
