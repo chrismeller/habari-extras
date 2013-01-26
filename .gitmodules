@@ -301,3 +301,6 @@
 [submodule "plugin/loupable"]
 	path = plugin/loupable
 	url = https://github.com/habari-extras/loupable.git
+[submodule "plugin/macros"]
+	path = plugin/macros
+	url = https://github.com/habari-extras/macros.git
