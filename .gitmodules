@@ -802,3 +802,6 @@
 [submodule "plugin/autosave"]
 	path = plugin/autosave
 	url = https://github.com/habari-extras/autosave.git
+[submodule "plugin/backtype"]
+	path = plugin/backtype
+	url = https://github.com/habari-extras/backtype.git
