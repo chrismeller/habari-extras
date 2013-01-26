@@ -634,3 +634,6 @@
 [submodule "plugin/technorati"]
 	path = plugin/technorati
 	url = https://github.com/habari-extras/technorati.git
+[submodule "plugin/termmenus"]
+	path = plugin/termmenus
+	url = https://github.com/habari-extras/termmenus.git
