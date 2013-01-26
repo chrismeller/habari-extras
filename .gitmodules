@@ -775,3 +775,6 @@
 [submodule "plugin/atomthreading"]
 	path = plugin/atomthreading
 	url = https://github.com/habari-extras/atomthreading.git
+[submodule "plugin/audioscrobbler"]
+	path = plugin/audioscrobbler
+	url = https://github.com/habari-extras/audioscrobbler.git
