@@ -1,0 +1,1 @@
+Mozilla Account Manager plugin for Habari.

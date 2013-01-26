@@ -754,3 +754,6 @@
 [submodule "plugin/NicEdit"]
 	path = plugin/NicEdit
 	url = https://github.com/habari-extras/NicEdit.git
+[submodule "plugin/account_manager"]
+	path = plugin/account_manager
+	url = https://github.com/habari-extras/account_manager.git
