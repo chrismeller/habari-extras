@@ -199,3 +199,6 @@
 [submodule "plugin/habarimarkdown"]
 	path = plugin/habarimarkdown
 	url = https://github.com/habari-extras/habarimarkdown.git
+[submodule "plugin/habminbar"]
+	path = plugin/habminbar
+	url = https://github.com/habari-extras/habminbar.git
