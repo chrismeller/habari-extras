@@ -925,3 +925,6 @@
 [submodule "plugin/holmes"]
 	path = plugin/holmes
 	url = https://github.com/habari-extras/holmes.git
+[submodule "plugin/hisa"]
+	path = plugin/hisa
+	url = https://github.com/habari-extras/hisa.git
