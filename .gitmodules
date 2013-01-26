@@ -376,3 +376,6 @@
 [submodule "plugin/pageless"]
 	path = plugin/pageless
 	url = https://github.com/habari-extras/pageless.git
+[submodule "plugin/pagemenu"]
+	path = plugin/pagemenu
+	url = https://github.com/habari-extras/pagemenu.git
