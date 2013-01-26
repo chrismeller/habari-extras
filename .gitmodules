@@ -22,3 +22,6 @@
 [submodule "plugin/cisco"]
 	path = plugin/cisco
 	url = https://github.com/habari-extras/cisco.git
+[submodule "plugin/clickheat"]
+	path = plugin/clickheat
+	url = https://github.com/habari-extras/clickheat.git
