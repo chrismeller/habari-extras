@@ -829,3 +829,6 @@
 [submodule "broken/demorgan"]
 	path = broken/demorgan
 	url = https://github.com/habari-extras/demorgan.git
+[submodule "theme/fun-with-photos"]
+	path = theme/fun-with-photos
+	url = https://github.com/habari-extras/fun-with-photos.git
