@@ -550,3 +550,6 @@
 [submodule "plugin/simpleblock"]
 	path = plugin/simpleblock
 	url = https://github.com/habari-extras/simpleblock.git
+[submodule "plugin/simplecategories"]
+	path = plugin/simplecategories
+	url = https://github.com/habari-extras/simplecategories.git
