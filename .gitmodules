@@ -790,3 +790,6 @@
 [submodule "broken/autokeyword"]
 	path = broken/autokeyword
 	url = https://github.com/habari-extras/autokeyword.git
+[submodule "plugin/RelatedPosts"]
+	path = plugin/RelatedPosts
+	url = https://github.com/habari-extras/RelatedPosts.git

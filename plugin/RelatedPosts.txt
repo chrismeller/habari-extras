@@ -1,0 +1,1 @@
+Show the related posts based on interception of tags. Inspired by Raman Ng's (a.k.a. tinyau) RN Related Posts. Version 0.3 adds a block.
