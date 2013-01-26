@@ -418,3 +418,6 @@
 [submodule "plugin/plaintext"]
 	path = plugin/plaintext
 	url = https://github.com/habari-extras/plaintext.git
+[submodule "plugin/addon_catalog"]
+	path = plugin/addon_catalog
+	url = https://github.com/habari-extras/addon_catalog.git
