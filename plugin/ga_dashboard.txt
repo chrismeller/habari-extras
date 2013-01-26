@@ -1,0 +1,1 @@
+Adds Google Analytics to your dashboard modules.

@@ -148,3 +148,6 @@
 [submodule "plugin/freshcomments"]
 	path = plugin/freshcomments
 	url = https://github.com/habari-extras/freshcomments.git
+[submodule "plugin/ga_dashboard"]
+	path = plugin/ga_dashboard
+	url = https://github.com/habari-extras/ga_dashboard.git
