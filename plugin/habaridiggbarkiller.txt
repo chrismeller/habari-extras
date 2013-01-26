@@ -1,0 +1,1 @@
+Removes Digg Bar frame.

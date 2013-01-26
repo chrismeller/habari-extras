@@ -193,3 +193,6 @@
 [submodule "plugin/habariakismet"]
 	path = plugin/habariakismet
 	url = https://github.com/habari-extras/habariakismet.git
+[submodule "plugin/habaridiggbarkiller"]
+	path = plugin/habaridiggbarkiller
+	url = https://github.com/habari-extras/habaridiggbarkiller.git
