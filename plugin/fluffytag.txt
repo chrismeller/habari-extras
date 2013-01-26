@@ -1,0 +1,1 @@
+Shows a Fluffy cloud of tags. Remember to add <code>&lt;?php $theme->fluffytag(); &gt;</code> somewhere in your theme.

@@ -133,3 +133,6 @@
 [submodule "plugin/flickrfeed"]
 	path = plugin/flickrfeed
 	url = https://github.com/habari-extras/flickrfeed.git
+[submodule "plugin/fluffytag"]
+	path = plugin/fluffytag
+	url = https://github.com/habari-extras/fluffytag.git
