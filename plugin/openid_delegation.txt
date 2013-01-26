@@ -1,0 +1,1 @@
+Enables site address to be used as a OpenID identifier, when using a third-party OpenID provider.
