@@ -334,3 +334,6 @@
 [submodule "plugin/mobiletheme"]
 	path = plugin/mobiletheme
 	url = https://github.com/habari-extras/mobiletheme.git
+[submodule "plugin/mollom"]
+	path = plugin/mollom
+	url = https://github.com/habari-extras/mollom.git

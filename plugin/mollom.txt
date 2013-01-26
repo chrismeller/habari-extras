@@ -1,0 +1,1 @@
+Provides the Mollom content filtering web service to Habari.
