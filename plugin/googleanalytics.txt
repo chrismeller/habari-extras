@@ -1,0 +1,1 @@
+Automatically adds Google Analytics tracking code to your webpage.

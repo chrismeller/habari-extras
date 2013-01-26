@@ -178,3 +178,6 @@
 [submodule "plugin/googleads"]
 	path = plugin/googleads
 	url = https://github.com/habari-extras/googleads.git
+[submodule "plugin/googleanalytics"]
+	path = plugin/googleanalytics
+	url = https://github.com/habari-extras/googleanalytics.git
